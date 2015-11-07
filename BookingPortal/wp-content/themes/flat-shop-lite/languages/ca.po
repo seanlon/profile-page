@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flat Shop lite v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-17 16:25+0200\n"
+"PO-Revision-Date: 2015-11-01 16:11+0300\n"
+"Last-Translator: JustPX <mail@justpx.com>\n"
+"Language-Team: JustPX <mail@justpx.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ca\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "Error 404 - Page Not Found"
+msgstr "404 - Pàgina no trobada"
+
+#: footer.php:9
+msgid "Powered by"
+msgstr "Funcionant amb el"
+
+#: footer.php:9
+msgid "Theme"
+msgstr "Teme"
+
+#: functions.php:56
+msgid "Page"
+msgstr "Pàgina"
+
+#: functions.php:62
+msgid "Pages"
+msgstr "Pàgines"
+
+#: index.php:11
+msgid "Read more..."
+msgstr "Llegeix més..."
+
+#: index.php:13
+msgid "Categories:"
+msgstr "Categories:"
+
+#: index.php:23
+msgid "&laquo; Newer"
+msgstr "&laquo; Entrades més recents"
+
+#: index.php:24
+msgid "Older &raquo;"
+msgstr "Entrades anteriors &raquo;"
+
+#: search.php:19
+msgid "Not found."
+msgstr "Pàgina no trobada."
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Cerca"
+
+#: single.php:12
+msgid "Categories "
+msgstr "Categories:"
+
+#: single.php:13
+msgid "Previous post link"
+msgstr " "
+
+#: single.php:14
+msgid "Next post link"
+msgstr " "
+
+#: header.php:35
+msgid "Cart:"
+msgstr "Carret:"
+
+#: header.php:35
+msgid "View your shopping cart"
+msgstr "Veure el carret"
+
+#: functions.php:65
+msgid "View your shopping cart "
+msgstr "Veure el carret"
+
+#: header.php:35
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d ítem"
+msgstr[1] "%d ítems"
+
+#: functions.php:65
+msgid "%d item "
+msgid_plural "%d items "
+msgstr[0] "%d ítem"
+msgstr[1] "%d ítems"

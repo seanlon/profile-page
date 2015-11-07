@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flat Shop lite v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-17 16:25+0200\n"
+"PO-Revision-Date: 2015-11-01 16:13+0300\n"
+"Last-Translator: JustPX <mail@justpx.com>\n"
+"Language-Team: JustPX <mail@justpx.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "Error 404 - Page Not Found"
+msgstr "錯誤 404 - 網頁遺失"
+
+#: footer.php:9
+msgid "Powered by"
+msgstr "建立者"
+
+#: footer.php:9
+msgid "Theme"
+msgstr "網站主題"
+
+#: functions.php:56
+msgid "Page"
+msgstr "頁"
+
+#: functions.php:62
+msgid "Pages"
+msgstr "總頁數"
+
+#: index.php:11
+msgid "Read more..."
+msgstr "更多細節..."
+
+#: index.php:13
+msgid "Categories:"
+msgstr "總類別數:"
+
+#: index.php:23
+msgid "&laquo; Newer"
+msgstr "&laquo; 較新的"
+
+#: index.php:24
+msgid "Older &raquo;"
+msgstr "較舊的 &raquo;"
+
+#: search.php:19
+msgid "Not found."
+msgstr "搜尋不到."
+
+#: searchform.php:2
+msgid "Search"
+msgstr "搜尋"
+
+#: single.php:12
+msgid "Categories "
+msgstr "總類別數:"
+
+#: single.php:13
+msgid "Previous post link"
+msgstr " "
+
+#: single.php:14
+msgid "Next post link"
+msgstr " "
+
+#: header.php:35
+msgid "Cart:"
+msgstr "購物車:"
+
+#: header.php:35
+msgid "View your shopping cart"
+msgstr "瀏覽購物車清單"
+
+#: functions.php:65
+msgid "View your shopping cart "
+msgstr "瀏覽購物車清單"
+
+#: header.php:35
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 項目"
+msgstr[1] "%d 總項數"
+
+#: functions.php:65
+msgid "%d item "
+msgid_plural "%d items "
+msgstr[0] "%d 項目"
+msgstr[1] "%d 總項數"

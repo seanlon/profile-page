@@ -1,0 +1,71 @@
+/* -----Add additional css created by Shahid----- */
+@media (max-width: 480px) {
+.team_bg {
+    margin-bottom: 30px;
+	}
+.featured_port_projects{
+	margin-bottom: 40px;
+	}
+.blog_section_readmore{
+	float: left !important;
+	}
+.blog_section {
+    padding: 5px 5px 5px 5px;
+	}
+.blog_section_img{
+	width: 100%;
+	height: auto;
+	}
+.blog_pull_img {
+    margin-right: 0px !important;
+	}
+.sidebar_widget {
+    margin-left: 0;
+	}
+.para_img_left, .para_img_right{
+    height: auto;
+    width: 99%;
+	}
+.para_img_pull{
+	margin: 0px !important;
+	}	
+.banner_con {
+    display: none;
+	}
+.sidebar_widget {
+    margin-left: 0px;
+    }
+.portfolio-detail-pagi {
+    margin-left: 0px;
+	}
+.portfolio-detail-info {
+	margin-left: 0px;
+	}
+.portfolio-detail-description {
+	margin-left: 0px;
+	}
+}
+
+@media (max-width: 767px) {
+.team_bg {
+    margin-bottom: 30px;
+	}
+.featured_port_projects{
+	margin-bottom: 40px;
+	}	
+.banner_con {
+    display: none;
+	}
+.sidebar_widget {
+    margin-left: 0px;
+    }
+.portfolio-detail-pagi {
+    margin-left: 0px;
+	}
+.portfolio-detail-info {
+	margin-left: 0px;
+	}
+.portfolio-detail-description {
+	margin-left: 0px;
+	}
+}

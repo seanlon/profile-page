@@ -1,0 +1,45 @@
+.wppb-form-field.pbpl-class label {
+    text-indent: -99999px;
+    position: absolute;
+    left: -99999px;
+}
+
+.wppb-form-field.pbpl-class .wppb-checkboxes li label,
+.wppb-form-field.pbpl-class .wppb-radios li label,
+.wppb-form-field.wppb-campaign-monitor-subscribe.pbpl-class label,
+.wppb-form-field.wppb-mailchimp-subscribe.pbpl-class label,
+.wppb-form-field.wppb-checkbox-terms-and-conditions.pbpl-class label,
+.wppb-form-field.wppb-upload.pbpl-class label,
+.wppb-form-field.wppb-radio.pbpl-class label,
+.wppb-form-field.wppb-checkbox.pbpl-class label,
+.wppb-form-field.wppb-select-user-role.pbpl-class label,
+.wppb-form-field.wppb-select-multiple.pbpl-class label,
+.wppb-form-field.wppb-select-country.pbpl-class label,
+.wppb-form-field.wppb-select-timezone.pbpl-class label,
+.wppb-form-field.wppb-select.pbpl-class label,
+.wppb-form-field.wppb-avatar.pbpl-class label,
+.wppb-form-field.wppb-datepicker.pbpl-class label {
+    text-indent: 0;
+    position: relative;
+    left: 0;
+    width: 100%;
+}
+
+.wppb-form-field.pbpl-class input[type="text"],
+.wppb-form-field.pbpl-class input[type="email"],
+.wppb-form-field.pbpl-class input[type="url"],
+.wppb-form-field.pbpl-class input[type="password"],
+.wppb-form-field.pbpl-class input[type="search"],
+.wppb-form-field.pbpl-class select,
+.wppb-form-field.pbpl-class textarea,
+.wppb-form-field.pbpl-class .wppb-checkboxes,
+.wppb-form-field.pbpl-class .wppb-radios,
+.wppb-form-field.wppb-wysiwyg.pbpl-class .wp-editor-wrap,
+#wppb-login-wrap.pbpl-class .login-username input,
+#wppb-login-wrap.pbpl-class .login-password input{
+    width: 100%;
+}
+
+.wppb-form-field.pbpl-class .wppb-description-delimiter {
+    margin-left: auto;
+}

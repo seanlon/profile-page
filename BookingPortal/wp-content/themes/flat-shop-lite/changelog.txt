@@ -1,0 +1,28 @@
+== changelog ==
+
+= 1.6 =
+- add Albanian (Shqip), Basque (Euskara), Bengali (বাংলা), Bosnian (Bosanski), Bulgarian (Български), Catalan (Català), Chinese (Taiwan) (繁體中文), Croatian (Hrvatski),  Danish (Dansk), Estonian (Eesti), Finnish (Suomi), Galician (Galego), Hazaragi (هزاره گی), Hebrew (עִבְרִית), Icelandic (Íslenska), Korean (한국어), Latvian (Latviešu valoda), Lithuanian (Lietuvių kalba), Macedonian (Македонски јазик), Myanmar, Norwegian (Bokmål) (Norsk bokmål), Norwegian (Nynorsk) (Norsk nynorsk), Occitan (Occitan), Pashto (پښتو), Persian (فارسی), Portuguese (Brazil) (Português do Brasil), Portuguese (Portugal) (Português), Scottish Gaelic (Gàidhlig), Serbian (Српски језик), Slovak (Slovenčina), Slovenian (Slovenščina), Swedish (Svenska), German (Switzerland) Deutsch (Schweiz), Tagalog (Tagalog), Thai (ไทย), Turkish (Türkçe), Uighur (Uyƣurqə), Ukrainian (Українська), Vietnamese (Tiếng Việt), Welsh (Cymraeg)
+
+= 1.5.7 =
+- add Azerbaijani
+
+= 1.5.6 =
+- add Arabic
+
+= 1.5.5 =
+- add Screen-reader text
+
+= 1.5.4 =
+- bug fix - responsive and logo
+
+= 1.5.3 =
+- bug fix - responsive
+
+= 1.5.2 =
+- add sidebar 'sidebar-head'
+- add Cart
+
+= 1.5.1 =
+- add_theme_support('menu'); - remove
+- rename flat-shop-lite.pot
+- text-domain fix

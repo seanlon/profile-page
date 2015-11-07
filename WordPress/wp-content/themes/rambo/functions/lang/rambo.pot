@@ -1,0 +1,5875 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rambo-Lite\n"
+"POT-Creation-Date: 2013-12-20 19:27+0530\n"
+"PO-Revision-Date: 2013-12-20 19:27+0530\n"
+"Last-Translator: \n"
+"Language-Team: webriti\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../Alpha-v1.3/Upload/Alpha/404.php:16
+msgid ""
+"Unfortunately, the page you tried accessing could not be retrieved. Please "
+"visit the"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/404.php:16
+msgid "homepage"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/author.php:14
+msgid "Posts by"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/comments.php:16
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1811
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:30
+msgid "Leave a reply"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/comments.php:17
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1817
+#: ../spasalon/aboutus.php:92
+msgid "Name"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/comments.php:18
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1823
+msgid "Email"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/comments.php:19
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1829
+msgid "Website"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/comments.php:20
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1835
+msgid "Comment Navigation"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/comments.php:21
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1841
+msgid "Older Comments"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/comments.php:22
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1847
+msgid "Newer Comments"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/comments.php:23
+msgid "Submit Comment"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/comments.php:24
+msgid "Log In To Comment"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/footer.php:87
+msgid "Copyright"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/functions.php:58
+msgid "Top"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/functions.php:59
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:676
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1053
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1555
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1712
+msgid "Main"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/functions.php:60
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1871
+msgid "Footer"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/search.php:17
+#: ../Alpha-v1.3/Upload/Alpha/search.php:36
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1734
+msgid "Search Results For"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/search.php:40
+msgid "No results found for that query."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/single-faqs.php:17
+msgid "FAQ"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/single-portfolio.php:114
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1722
+msgid "Related Items"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/single-staff.php:107
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1728
+msgid "Related Staff"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/single.php:95
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1773
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:415
+msgid "Author Bio"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/single.php:124
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1779
+msgid "Related Articles"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/single.php:141
+#: ../Alpha-v1.3/Upload/Alpha/framework/functions/variables.php:20
+msgid "read more"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/taxonomy-faqs_cats.php:15
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:20
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:487
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1524
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:67
+msgid "FAQs"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/taxonomy-staff_cats.php:28
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:19
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:528
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:833
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1195
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1472
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:78
+msgid "Staff"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/template-portfolio-filter-sidebar.php:58
+#: ../Alpha-v1.3/Upload/Alpha/template-portfolio-with-filter.php:47
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:187
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/recent-portfolio.php:92
+msgid "All"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:17
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:404
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:781
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1045
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1446
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:56
+msgid "Portfolio"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:18
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:445
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1498
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:45
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:89
+#: ../busiprof/theme_setup_data.php:28
+msgid "Services"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:42
+msgid "Feeds"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:53
+msgid "Blog Categories"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:77
+#: ../Alpha-v1.3/Upload/Alpha/framework/functions/variables.php:25
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1767
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:405
+msgid "Tags"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:96
+msgid "Archives by Month"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:112
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:137
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:162
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:186
+msgid " Categories"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/template-sitemap.php:218
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:23
+msgid "Pages"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/wpex_framework.php:8
+#: ../spasalon/functions/webr_framework.php:5
+#: ../spasalon/functions/wpex_framework.php:8
+msgid "Framework location not defined."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/admin/classes/class.options_machine.php:449
+msgid "Last Backup : "
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/admin/classes/class.options_machine.php:509
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:350
+msgid "Upload"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/admin/front-end/options.php:42
+#: ../Alpha-v1.3/Upload/Alpha/framework/admin/front-end/options.php:66
+msgid "Save All Changes"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/admin/front-end/options.php:67
+msgid "Options Reset"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/functions/better_comments.php:9
+msgid "Reply to comment"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/functions/better_comments.php:18
+#: ../busiprof/functions/commentbox/comment-function.php:39
+#, php-format
+msgid "<cite class=\"author\">%s</cite>"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/functions/variables.php:30
+msgid "0 Comments"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/functions/variables.php:31
+#: ../spasalon/archive.php:28 ../spasalon/blog.php:24
+#: ../spasalon/category.php:21 ../spasalon/page.php:24
+#: ../spasalon/search.php:19 ../spasalon/single.php:23
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/archive.php:28
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/author.php:46
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/category.php:21
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/home.php:25
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/index.php:26
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/page.php:24
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/search.php:19
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/single.php:23
+msgid "1 Comment"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/functions/variables.php:32
+#: ../spasalon/archive.php:28 ../spasalon/blog.php:24
+#: ../spasalon/category.php:21 ../spasalon/page.php:24
+#: ../spasalon/search.php:19 ../spasalon/single.php:23
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/archive.php:28
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/author.php:46
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/category.php:21
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/home.php:25
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/index.php:26
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/page.php:24
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/search.php:19
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/single.php:23
+msgid "% Comments"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/functions/variables.php:33
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1805
+msgid "Comments Disabled"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:109
+msgid "Select a color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:110
+msgid "Hide Picker"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:164
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/recent-post-types.php:79
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/taxonomies.php:76
+msgid "None"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:343
+msgid "Slide title *"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:348
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:88
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:107
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:126
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:144
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:106
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:121
+msgid "Image"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:348
+msgid "MUST be uploaded to your WordPress install for security reasons"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:354
+msgid "Link:"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:359
+msgid "Lightbox Link:"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:359
+msgid "this will override the link field above."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:364
+msgid "Description (Optional) "
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:369
+msgid "Video URL:"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:369
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/video.php:50
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/meta/meta_class.php:369
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/video.php:50
+msgid "Learn More"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/shortcodes/shortcodes.php:221
+#: ../spasalon/functions/shortcodes/shortcode.php:51
+#: ../spasalon/functions/shortcodes/shortcodes.php:50
+msgid "Heading Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/flickr.php:12
+msgid "WPEX - Pulls in images from your Flickr account."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/flickr.php:14
+msgid "WPEX - Flickr"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/flickr.php:65
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/recent-portfolio.php:78
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/recent-post-types.php:65
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/taxonomies.php:70
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/video.php:42
+#: ../spasalon/functions/widgets/spa-recent-posts.php:95
+#: ../spasalon/functions/widgets/spa-recent-products.php:103
+#: ../spasalon/functions/widgets/spa-widget-contact.php:57
+msgid "Title:"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/flickr.php:70
+msgid "Flickr ID "
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/flickr.php:75
+msgid "Number:"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/recent-portfolio.php:82
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/recent-post-types.php:69
+msgid "Number to Show:"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/recent-portfolio.php:86
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/recent-post-types.php:73
+msgid "Offset (the number of posts to skip):"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/recent-portfolio.php:90
+msgid "Select a Category:"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/recent-post-types.php:77
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/taxonomies.php:74
+msgid "Select a post type:"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:15
+msgid "Twitter"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:16
+#: ../spasalon/functions/meta-box/metabox.php:74
+msgid "Facebook"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:17
+msgid "Tumblr"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:18
+msgid "YouTube"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:19
+msgid "Vimeo"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:20
+msgid "LinkedIn"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:21
+msgid "Behance"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:22
+msgid "Envato"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:23
+msgid "iCloud"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:24
+msgid "Evernote"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:25
+msgid "Gowalla"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:26
+msgid "Paypal"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:27
+msgid "Pinterest"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:28
+msgid "Quora"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:29
+msgid "Google"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:30
+msgid "Googleplus"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:31
+msgid "Github"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:32
+msgid "Forrst"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:33
+msgid "Dribbble"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:34
+msgid "Flickr"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:35
+#: ../busiprof/footer.php:65 ../rambo/footer.php:42
+msgid "WordPress"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:36
+msgid "RSS"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:43
+msgid "WPEX - Social Icons"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/social.php:87
+msgid "Widget Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/taxonomies.php:18
+msgid "WPEX - Post Type Categories"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/taxonomies.php:58
+msgid "Select a taxonomy in the dashboard"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/taxonomies.php:64
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:16
+msgid "Categories"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/taxonomies.php:90
+msgid "Show Count"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/taxonomies.php:92
+#: ../busiprof/functions/theme_options/theme_home_page.php:69
+#: ../spasalon/option_pannel/homepage_slider.php:42
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Yes"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/taxonomies.php:93
+#: ../busiprof/functions/theme_options/theme_home_page.php:74
+#: ../spasalon/option_pannel/homepage_slider.php:43
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "No"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/video.php:19
+msgid "WPEX - Video"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/video.php:48
+msgid "Video URL "
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/video.php:55
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:99
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:118
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:137
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:155
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:82
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:98
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:114
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:129
+#: ../spasalon/functions/meta-box/metabox.php:67
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Description"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/framework/widgets/video.php:81
+msgid "You forgot to enter a video URL."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:13
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:20
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:27
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:34
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:44
+msgid "Select"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:167
+#: ../spasalon/option_pannel/option_pannel.php:19
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:157
+msgid "General"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:174
+msgid "Branding"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:178
+msgid "Main Logo Upload"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:179
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:382
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:423
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:464
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:506
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:547
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:588
+msgid ""
+"Upload your custom logo using the native media uploader, or define the URL "
+"directly"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:184
+msgid "Custom Login Logo"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:185
+msgid "Upload a custom logo for your Wordpress login screen."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:190
+msgid "Custom Login Logo Height"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:191
+msgid ""
+"Enter the height of your custom logo to override the default WordPress image "
+"height. Width, must not be changed."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:196
+#: ../busiprof/functions/theme_options/theme_home_page.php:91
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:72
+#: ../spasalon/option_pannel/general_settings.php:70
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:197
+msgid "Upload or past the URL for your custom favicon."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:206
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:210
+msgid "Top Bar"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:211
+msgid "Select to enable/disable the top bar"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:217
+msgid "Top Bar Static or Fixed"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:218
+msgid ""
+"Select if you want a static or fixed top bar. The Fixed option will keep the "
+"bar always visible."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:224
+msgid "Top Bar Menu"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:225
+msgid "Select to enable/disable the top bar menu."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:231
+msgid "Top Bar Menu Alternative"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:232
+msgid ""
+"Enter your custom html/text as an alternative for the menu if you have "
+"disabled it above.."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:241
+msgid "Header"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:245
+msgid "Header Logo Margin Top"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:246
+msgid "Enter a top margin in pixels for your header logo."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:251
+msgid "Header Right Content Margin Top"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:252
+msgid "Enter a top margin in pixels for your header right area."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:257
+msgid "Search Bar"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:258
+msgid "Select to enable/disable the header search bar"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:264
+msgid "Above Search Text"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:265
+msgid "Enter your custom text/html for above the search bar."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:270
+msgid "Below Search Text"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:271
+msgid "Enter your custom text/html for below the search bar."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:276
+msgid "Icon Font"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:283
+msgid ""
+"Icons are a huge aspect of this theme, unfortunately, due to certain "
+"restrictions the Icon Font can not be included with the theme download. In "
+"order to activate the icon fonts, please enable the css option below and "
+"then download Font Awesome v2 and upload the icon fonts into the \"fonts\" "
+"folder (see the theme documentation for further details)."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:287
+msgid "Enable/Disable Font Icon CSS"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:288
+msgid "Select to enable or disable the icon font css."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:294
+msgid "Styling"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:301
+msgid "Built-In"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:305
+msgid "Responsive Layout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:306
+msgid "Select to enable/disable the responsive layout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:313
+msgid "Color Scheme"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:314
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:339
+msgid "Select the sidebar position for your site. Choose left or right."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:338
+msgid "Sidebar Layout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:353
+msgid "Custom"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:358
+#: ../busiprof/functions/theme_options/theme_home_page.php:138
+#: ../spasalon/option_pannel/typography.php:394
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:359
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:363
+msgid "Backgrounds"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:370
+msgid "Site Wide"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:381
+msgid "Site Wide: Custom Image"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:394
+msgid "Site Wide: Background Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:395
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:436
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:477
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:519
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:560
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:601
+msgid ""
+"Select your background color. Used if you have selected no background image "
+"or you are using a see-through image."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:408
+msgid "Enable Custom Portfolio Background"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:409
+msgid ""
+"Select to enable/disable the custom background for portfolio pages, posts "
+"and archives."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:422
+msgid "Portfolio: Custom Image"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:435
+msgid "Portfolio: Background Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:449
+msgid "Enable Custom Services Background"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:450
+msgid ""
+"Select to enable/disable the custom background for services pages, posts and "
+"archives."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:463
+msgid "Services: Custom Image"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:476
+msgid "Services: Background Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:491
+msgid "Enable Custom FAQs Background"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:492
+msgid ""
+"Select to enable/disable the custom background for faqs pages, posts and "
+"archives."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:505
+msgid "FAQs: Custom Image"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:518
+msgid "FAQs: Background Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:532
+msgid "Enable Custom Staff Background"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:533
+msgid ""
+"Select to enable/disable the custom background for staff pages, posts and "
+"archives."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:546
+msgid "Staff: Custom Image"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:559
+msgid "Staff: Background Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:569
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:885
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1325
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1757
+msgid "Blog"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:573
+msgid "Enable Custom Blog Background"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:574
+msgid ""
+"Select to enable/disable the custom background for blog posts and archives."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:587
+msgid "Blog: Custom Image"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:600
+msgid "Blog: Background Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:606
+#: ../spasalon/option_pannel/option_pannel.php:20
+#: ../spasalon/option_pannel/typography.php:98
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:158
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:183
+msgid "Typography"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:613
+msgid ""
+"The following font options are provided for basic support for those that "
+"only want a few changes so they don't have to download a full-blown plugin. "
+"If you require additional options you should consider using a plugin or the "
+"custom settings area."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:621
+msgid "Built-In Options"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:631
+msgid "Headings"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:632
+msgid ""
+"Deadings font properties. This will be applied to h1, h2, h3, h4, h5, h6 "
+"tags."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:637
+msgid "Navigation"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:638
+msgid "Navigation (top and main) font properties."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:643
+msgid "Homepage Tagline"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:644
+msgid "Homepage tagine font properties."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:653
+msgid "Custom Settings"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:657
+msgid "Custom Font Stylesheets"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:658
+msgid ""
+"If you want to add more Google fonts or custom fonts or you want a font for "
+"a specific region and the options above won't work, insert your whole link "
+"href code in the text area below.<br /><br />Following <a href=\"http://www."
+"w3schools.com/tags/tag_link.asp\">this format</a>. Such as those provided on "
+"Google Fonts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:663
+msgid "Custom Fonts CSS"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:664
+msgid ""
+"This text area will echo out any css you enter here to the header of your "
+"site."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:669
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:11
+#: ../busiprof/functions/menu/default_menu_walker.php:23
+#: ../rambo/functions/menu/default_menu_walker.php:23
+#: ../spasalon/functions/Menu_Walker/default_menu_walker.php:23
+#: ../spasalon/option_pannel/option_pannel.php:23
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions/Menu_Walker/default_menu_walker.php:23
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:156
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:173
+msgid "Home"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:680
+msgid "Enable Blog Style Homepage"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:681
+msgid "Select to enable/disable the blog style homepage."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:691
+msgid "Homepage Modules"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:696
+msgid ""
+"Organize how you want the layout to appear on the homepage. Click to drag "
+"and drop your items."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:705
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:709
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:444
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:17
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:18
+msgid "Slider"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:710
+msgid ""
+"Select your homepage slider. Note: This option is for the Slider Module, "
+"which should only be used at the top of the homepage. If you wish sliders "
+"elsewhere, please use the custom module options and paste your slider "
+"shortcode in there."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:720
+msgid "Tagline"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:724
+msgid "Tagline: Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:725
+msgid ""
+"Enter your custom title for the homepage tagline module. Leave blank to show "
+"nothing."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:730
+msgid "Tagline: URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:731
+msgid "Enter a url to link your homepage tagline module title to (optional)."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:736
+msgid "Tagline: Content"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:737
+msgid "Control your homepage tagline here. HTML and shortcodes allowed."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:747
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:45
+msgid "Highlights"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:751
+msgid "Highlights: Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:752
+msgid ""
+"Enter your custom title for the homepage highlights module. Leave blank to "
+"show nothing."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:757
+msgid "Highlights: Title URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:758
+msgid "Enter a url to link your highlights title to (optional)."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:763
+msgid "Highlights: Layout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:764
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:811
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:863
+msgid "Select your highlights column layout."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:785
+msgid "Portfolio: Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:786
+msgid ""
+"Enter your custom title for the latest portfolio items module. Leave blank "
+"to show nothing."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:791
+msgid "Portfolio: Title URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:792
+msgid "Enter a url to link your portfolio items title to (optional)."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:797
+msgid "Portfolio: Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:798
+msgid ""
+"If you do not want to show all the recent portfolio items, select a specific "
+"category below."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:804
+msgid "Portfolio: Count"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:805
+msgid "How many latest portfolio items do you want to show on the homepage."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:810
+msgid "Portfolio: Layout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:823
+msgid "Portfolio: Image Height"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:824
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:876
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:934
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1071
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1158
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1190
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1220
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1288
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1320
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1357
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1397
+msgid ""
+"Enter a percentage to increase or decrease the image height by. <br /"
+">Example: 110% would increase the slider by 20%<br />Example: 20% would "
+"decrease the height by 80%."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:837
+msgid "Staff: Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:838
+msgid ""
+"Enter your custom title for the latest staff items module. Leave blank to "
+"show nothing."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:843
+msgid "Staff: Title URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:844
+msgid "Enter a url to link your staff items title to (optional)."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:849
+msgid "Staff: Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:850
+msgid ""
+"If you do not want to show all the recent staff items, select a specific "
+"category below."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:856
+msgid "Staff: Count"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:857
+msgid "How many latest staff items do you want to show on the homepage."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:862
+msgid "Staff: Layout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:875
+msgid "Staff: Image Height"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:889
+msgid "Blog: Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:890
+msgid ""
+"Enter your custom title for the latest blog items module. Leave blank to "
+"show nothing."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:895
+msgid "Blog: title URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:896
+msgid "Enter a url to link your blog items title to (optional)."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:901
+msgid "Blog: Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:902
+msgid ""
+"If you do not want to show all the recent blog posts, select a specific "
+"category below."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:908
+msgid "Blog: Count"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:909
+msgid "How many latest blog items do you want to show on the homepage."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:914
+msgid "Blog: Excerpt Length"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:915
+msgid "Enter your excerpt length for the latest blog items."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:920
+msgid "Blog: Layout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:921
+msgid "Select your latest blog posts column layout."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:933
+msgid "Blog: Image Height"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:939
+msgid "Blog: Read More Button"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:940
+msgid ""
+"Select to enable/disable the read more button on the recent blog section."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:950
+msgid "Widgets"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:954
+msgid "Widgets: Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:955
+msgid "Enter the text for your widgets module title. (optional)"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:960
+msgid "Widgets: Title URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:961
+msgid "Enter the URL for your widgets module title. (optional)"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:966
+msgid "Widgets: Layout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:967
+msgid ""
+"Select your homepage widgets column layout. Add your widgets under Apperance/"
+"Widgets as usual."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:984
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1000
+msgid "Static Page"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:988
+msgid "Static Page: Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:989
+msgid "Enter the text for your static page module title. (optional)"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:994
+msgid "Static Page: Title URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:995
+msgid "Enter the url for your static page module title. (optional)"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1001
+msgid ""
+"Select a page for your homepage static page module. <strong>Important:</"
+"strong> Pages with custom loops like the portfolio, services, staff..etc, "
+"pages will not work.This only shows the content from the post editor."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1011
+msgid "Custom Modules"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1015
+msgid "Custom Module 1"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1016
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1022
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1028
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1034
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1040
+msgid "Enter your custom html, text, shortcodes here."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1021
+msgid "Custom Module 2"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1027
+msgid "Custom Module 3"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1033
+msgid "Custom Module 4"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1039
+msgid "Custom Module 5"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1057
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1206
+msgid "Categories: Layout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1058
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1177
+msgid "Select your column layout for the portfolio taxonomy pages."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1070
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1219
+msgid "Categories: Image Height"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1076
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1225
+msgid "Categories: Items Per Page"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1077
+msgid ""
+"How many portfolio items do you wish to show on the portfolio categories "
+"before activating the pagination."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1082
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1231
+msgid "Categories: Enable/Disable Sidebar"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1083
+msgid ""
+"Select to enable or disable the sidebar on your auto-generated portfolio "
+"category pages."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1089
+msgid "Template (Non-Filter): Items Per Page"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1090
+msgid ""
+"How many portfolio items do you wish to show on the portfolio page before "
+"activating the pagination. (filtered portfolio will always show all)"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1099
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1242
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1332
+msgid "Entries"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1103
+msgid "Entry: Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1104
+msgid "Select to enable or disable the title on portfolio entries."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1110
+msgid "Entry: Excerpt"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1111
+msgid "Select to enable or disable the excerpt on portfolio entries."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1117
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1343
+msgid "Entry: Excerpt Length"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1118
+msgid ""
+"Enter your custom excerpt length for portfolio posts.<br /><br /"
+"><strong>Hint</strong>: You can use your excerpt field in the post editor "
+"for custom excerpts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1123
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1246
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1349
+msgid "Entry: Read More Button"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1124
+msgid "Select to enable or disable the read more button on portfolio entries."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1130
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1253
+msgid "Overlay: Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1131
+msgid "Select your overlay color when hovering portfolio items."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1136
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1259
+msgid "Overlay: Opacity"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1137
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1260
+msgid "Enter your entry image hovers. Value from 0-1. Default is 0.9"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1146
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1269
+msgid "Post"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1150
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1280
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1389
+msgid "Post: Crop Featured Images"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1151
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1281
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1390
+msgid ""
+"Select to enable or disable the single posts featured image cropping "
+"function."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1157
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1287
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1396
+msgid "Post: Featured Image Height"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1163
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1293
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:99
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:376
+msgid "Post: Related Items"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1164
+msgid ""
+"Select to enable or disable the related items on portfolio posts (globally). "
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1170
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1300
+msgid "Post: Related Items Count"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1171
+msgid ""
+"How many portfolio items do you wish to show for the related porfolio items "
+"section?"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1176
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1306
+msgid "Post: Related Items Style"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1189
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1319
+msgid "Post: Related Items Image Height"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1202
+msgid "Staff Categories"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1207
+msgid "Select your column layout for the staff category pages."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1226
+msgid ""
+"How many portfolio items do you wish to show on the staff categories before "
+"activating the pagination."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1232
+msgid ""
+"Select to enable or disable the sidebar on your auto-generated staff "
+"category pages."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1247
+msgid "Select to enable or disable the read more button on staff entries."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1254
+msgid "Select your overlay color when hovering staff items."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1273
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1382
+msgid "Post: Featured Images"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1274
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1383
+msgid "Select to enable or disable the featured image on blog posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1294
+msgid ""
+"Select to enable or disable the related items on staff posts (globally). "
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1301
+msgid "How many items do you wish to show for the related staff items section?"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1307
+msgid "Select your column layout for the related staff entries"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1336
+msgid "Entry: Full Content"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1337
+msgid ""
+"Select to enable the full content for entries. This means the entries for "
+"the blog posts will show the entire post content with a large featured image "
+"instead of the small image on the left and title, meta and excerpt on the "
+"right."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1344
+msgid ""
+"Add your own custom blog excerpt length. Used for blog page, archives and "
+"search results."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1350
+msgid "Select to enable or disable the read more button on blog entries."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1356
+msgid "Entry: Featured Image Height"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1362
+msgid "Entry Overlay: Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1363
+msgid "Select your overlay color when hovering blog entry featured images."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1368
+msgid "Entry Overlay: Opacity"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1369
+msgid ""
+"Enter your overlay opacity for your blog entry image hovers. Value from 0-1."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1378
+msgid "Posts"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1402
+msgid "Post: Meta"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1403
+msgid ""
+"Select to enable or disable the meta box with the date and categories from "
+"the single blog posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1409
+msgid "Post: Tags"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1410
+msgid ""
+"Select to enable or disable the tags section from the single blog posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1417
+msgid "Post: Author Bio"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1418
+msgid ""
+"Select to enable or disable the author bio section from the single blog "
+"posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1424
+msgid "Post: Related Posts"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1425
+msgid ""
+"Select to enable or disable the related posts from the single blog posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1431
+msgid "Post Types"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1438
+msgid ""
+"The following options are to edit the front-end post type options. Whenever "
+"you make a change to a post type name, make sure to refresh the page to see "
+"the changes. And whenever you make any permalink changes, make sure to re-"
+"save your permalink structure to avoid any 404 errors."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1450
+msgid "Portfolio: Name"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1451
+msgid "Enter a custom name for your portfolio post type."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1456
+msgid "Portfolio: Slug"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1457
+msgid ""
+"Enter a custom slug for your portfolio post type. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1462
+msgid "Portfolio: Cateogory Slug"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1463
+msgid ""
+"Enter a custom slug for your portfolio taxnomy. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1476
+msgid "Staff: Name"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1477
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1503
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1529
+msgid "Enter a custom name for your staff post type."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1482
+msgid "Staff: Slug"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1483
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1509
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1535
+msgid ""
+"Enter a custom slug for your staff post type. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1488
+msgid "Staff: Cateogory Slug"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1489
+msgid ""
+"Enter a custom slug for your staff taxnomy. Go <strong>save your permalinks</"
+"strong> after changing this."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1502
+msgid "Services: Name"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1508
+msgid "Services: Slug"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1514
+msgid "Services: Cateogory Slug"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1515
+msgid ""
+"Enter a custom slug for your services taxnomy. Go <strong>save your "
+"permalinks</strong> after changing this."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1528
+msgid "FAQs: Name"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1534
+msgid "FAQs: Slug"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1540
+msgid "FAQs: Cateogory Slug"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1541
+msgid ""
+"Enter a custom slug for your faqs taxnomy. Go <strong>save your permalinks</"
+"strong> after changing this."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1548
+msgid "Social"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1559
+msgid "Enable/Disable Social Icons"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1560
+msgid "Select to enable or disable the social icons in the top bar."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1566
+msgid "Social Alternative"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1567
+msgid ""
+"If you have disabled the social bar above, you can use this area to add some "
+"custom HTML/Text instead."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1576
+msgid "Your Profiles"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1584
+msgid ""
+"The following social options are used in the social bar on the top right of "
+"the site which is being called in header.php. Enter the FULL url to your "
+"profile or feed."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1591
+msgid "Enter your "
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1591
+msgid " url"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1591
+msgid "Include http:// at the front of the url."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1598
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1795
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1799
+#: ../rambo/comments.php:8
+msgid "Comments"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1601
+msgid "Comment Message Note"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1602
+msgid "This appears inside the comment area on modern browsers."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1607
+msgid "Disable/Enable Comments On Blog Posts"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1608
+msgid "Select to enable/disable comments on blog posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1614
+msgid "Disable/Enable Comments On Pages"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1615
+msgid "Select to enable/disable comments on regular pages."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1622
+msgid "Disable/Enable Comments On Portfolio Posts"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1623
+msgid "Select to enable/disable comments on portfolio posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1629
+msgid "Disable/Enable Comments On Staff Posts"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1630
+msgid "Select to enable/disable comments on staff posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1636
+msgid "Disable/Enable Comments On FAQs Posts"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1637
+msgid "Select to enable/disable comments on faq posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1643
+msgid "Disable/Enable Comments On Service Posts"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1644
+msgid "Select to enable/disable comments on service posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1650
+msgid "Lightbox"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1653
+msgid "Lightbox: Enable/Disable"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1654
+msgid ""
+"Select to enable or disable the prettyPhoto lightbox script on your site. "
+"Disabling prettyPhoto will result in any lightbox link opening directly in "
+"the browser."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1660
+msgid "Lightbox: Theme"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1661
+msgid "Select your lightbox theme."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1667
+msgid "Lightbox: Title"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1668
+msgid "Show the title in the lightbox."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1674
+msgid "Lightbox: Resize"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1675
+msgid "Resize the photos bigger than viewport."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1681
+msgid "Lightbox: Slideshow Speed"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1682
+msgid ""
+"Enter your speed in milliseconds for the lightbox galleries that showcause "
+"multiple items. You can enter \"false\" to disable the slideshow."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1687
+msgid "Lightbox: Overlay Opacity"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1688
+msgid "Enter your opacity value from 0-1."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1693
+msgid "Lightbox: Default Width"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1694
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1700
+msgid ""
+"Enter your default height for the lightbox script. Used mainly for videos."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1699
+msgid "Lightbox: Default Height"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1705
+msgid "Translations"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1716
+msgid "Custom Responsive Navigation Text"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1717
+msgid ""
+"Enter your custom text for the responsive navigation bar. Default is \"Go "
+"to..\""
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1723
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1729
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1735
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1741
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1762
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1768
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1774
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1780
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1786
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1800
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1806
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1812
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1818
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1824
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1830
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1836
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1842
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1848
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1854
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1860
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1866
+msgid "Enter your translated text."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1740
+msgid "No results found for that query"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1746
+msgid "404 Error Custom Text (Unfortunately, the page you tried accessing...)"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1747
+msgid "Enter your custom text."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1761
+#: ../busiprof/archive.php:43 ../busiprof/author.php:45
+#: ../busiprof/category.php:15 ../busiprof/index.php:39
+#: ../busiprof/page.php:32 ../busiprof/search.php:35 ../busiprof/single.php:35
+#: ../rambo/archive.php:36 ../rambo/author.php:28 ../rambo/category.php:18
+#: ../rambo/fullwidth.php:17 ../rambo/index.php:27 ../rambo/page.php:22
+#: ../rambo/single.php:22
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions/Excerpt/excerpt_length.php:89
+msgid "Read More"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1785
+msgid "Post by"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1853
+msgid "Reply To Comment"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1859
+#: ../rambo/comments.php:61
+msgid "Post Comment"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1865
+msgid "Log In To Post Comment"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1879
+msgid "Callout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1883
+msgid "Callout Text"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1884
+msgid "Enter your text for the footer callout region."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1886
+msgid "Edit your tagline in the Theme Panel \"Footer\" tab."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1889
+msgid "Callout Button Text"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1890
+msgid "Enter your text for your footer callout button."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1892
+msgid "Buy Now"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1895
+msgid "Callout Button Link"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1896
+msgid ""
+"Enter your link for your footer callout button. Don't forget the http://"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1898
+msgid "http://themeforest.net"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1901
+msgid "Callout Button Link Target"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1902
+msgid "Select your callout button link target."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1908
+msgid "Callout Button Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1909
+msgid "Select your callout button color."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1918
+msgid "Callout Button Icon"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1919
+msgid "Select yoru callout button icon."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1930
+msgid "Widgetized Footer"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1934
+msgid "Enable/Disable Widgetized Footer"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1935
+msgid "Select to enable or disable the widgetized footer."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1941
+msgid "Footer Layout"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1942
+msgid "Select your footer layout."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1957
+msgid "Footer Bottom"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1961
+msgid "Custom Copyright"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1962
+msgid "Add your own custom text/html for copyright region."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1967
+msgid "Tracking"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1974
+msgid ""
+"You can use these fields for adding code to your header and footer regions. "
+"When adding tracking such as Google Analytics, be sure to enter the full "
+"code and not just your account ID."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1978
+msgid "Tracking Code (Header)"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1979
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header template of your theme."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1984
+msgid "Tracking Code (Footer)"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1985
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1990
+msgid "Advanced"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:1997
+msgid ""
+"Here you will find some advanced options for the theme. Please be careful "
+"while using these."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:2001
+msgid "WPAUTOP Filter"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:2002
+msgid ""
+"Some plugins break when wpautop is enabled. I use it to clean up shortcodes "
+"a bit, but if you find a plugin not working you might want to try disabling "
+"this setting to test."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:2009
+msgid "Backup"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:2012
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:2016
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time.<br /><br />This is useful if you want to "
+"experiment on the options but would like to keep the old settings in case "
+"you need it back."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:2019
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/admin_options.php:2023
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:14
+msgid "Entry Options"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:19
+msgid "Entry: Style"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:21
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:68
+msgid "Select the entry style for this post."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:31
+msgid "Entry: Lightbox URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:32
+msgid ""
+"If you selected the lighbox style above enter the url to your image, video "
+"or whatever you wish to open in lightbox. See <a href=\"http://www.no-margin-"
+"for-errors.com/projects/prettyphoto-jquery-lightbox-clone/\" target=\"_blank"
+"\">prettyPhoto</a> to learn more."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:38
+msgid "Entry: Custom URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:39
+msgid "If you selected the custom url style above enter your custom URL here."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:45
+msgid "Entry: Custom URL Target"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:46
+msgid "If you selected the custom url style above select your link targer."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:61
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:391
+msgid "Post Options"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:66
+msgid "Post: Style"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:77
+msgid "Post: Featured Image"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:79
+msgid "Select enable to show only your featured image and not a slider."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:88
+msgid "Post: Slider"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:90
+msgid ""
+"Select disable if you wish to disable the slider function on this post. "
+"Setup your slider below."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:101
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:378
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:427
+msgid "Select to enable or disable the related posts region."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:109
+msgid "Post: Disable Meta"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:111
+msgid "Select to enable or disable the porfolio meta area (date/category/etc)."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:124
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:128
+msgid "Slides"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:129
+msgid ""
+"Upload as many slides you want on this page, then drag and drop to arrange "
+"them."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:147
+#: ../rambo/functions/theme_options/pages/lates_news_page_settings.php:2
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:2
+msgid "Slider Settings"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:151
+msgid "Animation"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:152
+msgid "Select your animation."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:162
+msgid "Auto transition"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:163
+msgid ""
+"Select true if you want the slider to start the auto transition "
+"automatically."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:173
+msgid "Direction Navigation"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:174
+msgid "Select true to enable the next/previous arrows."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:184
+msgid "Control Navigation"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:185
+msgid "Select true to enable the control navigation.."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:195
+msgid "Smooth Height Transition"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:196
+msgid ""
+"Select true to enable the smooth transition between slides of different "
+"heights. This new setting in FlexSlider 2 is a bit buggy so it's set to "
+"false by default."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:206
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:207
+msgid ""
+"Integer: Set the speed of the slideshow cycling, in milliseconds. Do NOT "
+"leave blank."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:213
+msgid "Animation Duration"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:214
+msgid ""
+"Integer: Set the speed of animations, in milliseconds. Do NOT leave blank."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:225
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:232
+msgid "Slider Shortcode"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:244
+msgid "Body Background"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:251
+msgid "Image URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:258
+msgid "Style"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:270
+msgid "Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:282
+msgid "Service Icon"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:286
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:320
+msgid "Icon"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:290
+msgid ""
+"Select your service icon option.<br/ > See <a href=\"http://fortawesome."
+"github.com/Font-Awesome/\">Font Awesome</a> for previews."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:298
+msgid "HP Highlights Options"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:303
+msgid "URL"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:304
+msgid "Enter a URL to link the title of this highlight to. Optional."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:310
+msgid "URL Taget"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:311
+msgid "Select your desired target for the highlight link."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:324
+msgid ""
+"Select your highlight icon option.<br/ > See <a href=\"http://fortawesome."
+"github.com/Font-Awesome/\">Font Awesome</a> for previews."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:327
+msgid "Icon Color"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:330
+msgid "Enter your color hex value for your icon. Example: #000"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:333
+msgid "Icon Size"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:334
+msgid "Enter a size for your icon. Example: 64px."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:345
+msgid "FAQ Options"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:350
+msgid "FAQ Question Icon"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:356
+msgid "This allows you to change the icon in front of FAQ titles."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:364
+msgid "Staff Options"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:369
+msgid "Staff Position"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:370
+msgid "Enter your staff member position here."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:395
+msgid "Featured Image"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:397
+msgid "Select to enable or disable your featured image"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:412
+msgid "Select to enable or disable the tags region."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:422
+msgid "Select to enable or disable the author bio region."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:425
+msgid "Related Posts"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:440
+msgid "Template Options"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:445
+msgid "Select a slider if you want one at the top of this page full-screen."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:450
+msgid "Blog Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:454
+msgid "Select a category for this blog page."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:457
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:462
+msgid "Select a category for this portfolio page."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:465
+msgid "Service Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:470
+msgid "Select a category for service blog page."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:473
+msgid "FAQs Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:477
+msgid "Select a category for this faqs page."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:480
+msgid "Staff Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:484
+msgid "Select a category for this staff page."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:487
+msgid "Grid Style"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:490
+msgid ""
+"Select the grid style for this template.<br />(portfolio & staff pages only)"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:501
+msgid "Grid Image Height"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:502
+msgid ""
+"Enter a percentage to increase or decrease the image height by. <br /"
+">Example: 120% would increase the slider by 20%<br />Example: 20% would "
+"decrease the height by 80%."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:508
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:509
+msgid ""
+"Enter how many posts you want to show per page. Note: filterable pages, "
+"services & FAQ's don't include pagination."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:515
+msgid "Callout Area"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/meta_usage.php:517
+msgid ""
+"Select to enable or disable the callout region above the footer. Ideal for "
+"pages like your sitemap, contact page, etc."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:20
+msgid "Add New Slider"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:21
+msgid "Edit Slider"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:22
+msgid "New Slider"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:23
+msgid "View Slider"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:24
+msgid "Search Sliders"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:25
+msgid "No Sliders found"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:26
+msgid "No Sliders found in Trash"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:46
+msgid "Highlight"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:48
+msgid "Add New Highlight"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:49
+msgid "Edit Highlight"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:50
+msgid "New Highlight"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:51
+msgid "View Highlight"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:52
+msgid "Search Highlights"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:53
+msgid "No Highlights found"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/post_types.php:54
+msgid "No Highlights found in Trash"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:17
+msgid "Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:18
+msgid "Search Categories"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:19
+msgid "All Categories"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:20
+msgid "Parent Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:21
+msgid "Parent Category:"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:22
+msgid "Edit  Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:23
+msgid "Update Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:24
+msgid "Add New  Category"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:25
+msgid "New Category Name"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/taxonomies.php:26
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:13
+msgid "Widgets in this area are used on the homepage if enabled."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:25
+msgid "Widgets in this area are used on pages."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:34
+msgid "Blog/Archives"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:36
+msgid "Widgets in this area are used on the main sidebar region."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:47
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:91
+msgid "Widgets in this area are used on the services pages and posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:58
+msgid "Widgets in this area are used on the portfolio posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:69
+msgid "Widgets in this area are used on the faqs pages and posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:80
+msgid "Widgets in this area are used on the staff posts."
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:100
+msgid "Footer 1"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:102
+msgid "Widgets in this area are used in the first footer column"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:112
+msgid "Footer 2"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:114
+msgid "Widgets in this area are used in the second footer column"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:124
+msgid "Footer 3"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:126
+msgid "Widgets in this area are used in the third footer column"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:136
+msgid "Footer 4"
+msgstr ""
+
+#: ../Alpha-v1.3/Upload/Alpha/theme_functions/widget_areas.php:138
+msgid "Widgets in this area are used in the fourth footer column"
+msgstr ""
+
+#: ../busiprof/404.php:16 ../rambo/404.php:7 ../spasalon/404.php:15
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/404.php:7
+msgid "Unfortunately, the page you tried accessing could not be retrieved. "
+msgstr ""
+
+#: ../busiprof/404.php:18 ../rambo/404.php:9 ../spasalon/404.php:18
+#: ../twentythirteen/content-none.php:27 ../twentytwelve/404.php:21
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/404.php:10
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../busiprof/archive.php:19 ../rambo/archive.php:8
+msgid "Daily Archives: "
+msgstr ""
+
+#: ../busiprof/archive.php:21 ../rambo/archive.php:10
+msgid "Monthly Archives: "
+msgstr ""
+
+#: ../busiprof/archive.php:23 ../rambo/archive.php:12
+msgid "Yearly Archives: "
+msgstr ""
+
+#: ../busiprof/archive.php:25 ../rambo/archive.php:14
+msgid "Blog Archives: "
+msgstr ""
+
+#: ../busiprof/archive.php:31 ../rambo/archive.php:20
+msgid "no title"
+msgstr ""
+
+#: ../busiprof/archive.php:35 ../busiprof/author.php:40
+#: ../busiprof/index.php:29 ../busiprof/page.php:25 ../busiprof/search.php:31
+#: ../busiprof/single.php:25 ../spasalon/archive.php:28
+#: ../spasalon/blog.php:24 ../spasalon/category.php:21 ../spasalon/page.php:24
+#: ../spasalon/search.php:19 ../spasalon/single.php:23
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/archive.php:28
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/author.php:46
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/category.php:21
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/home.php:25
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/index.php:26
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/page.php:24
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/search.php:19
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/single.php:23
+msgid "Leave a comment"
+msgstr ""
+
+#: ../busiprof/author.php:17 ../rambo/author.php:7
+msgid "Author Archives : "
+msgstr ""
+
+#: ../busiprof/author.php:27 ../twentythirteen/author-bio.php:26
+#: ../twentytwelve/author.php:63 ../twentytwelve/content.php:59
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/author.php:28
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../busiprof/banner-header.php:20
+msgid "Search"
+msgstr ""
+
+#: ../busiprof/category.php:5 ../rambo/category.php:7
+#: ../spasalon/category.php:9
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/category.php:9
+msgid "Category  Archives:"
+msgstr ""
+
+#: ../busiprof/comments.php:11 ../rambo/comments.php:2
+#: ../spasalon/comments.php:2
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../busiprof/comments.php:20 ../busiprof/comments.php:29
+#: ../rambo/comments.php:14 ../rambo/comments.php:25
+#: ../spasalon/comments.php:13 ../spasalon/comments.php:22
+#: ../twentythirteen/comments.php:45 ../twentytwelve/comments.php:42
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:12
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#: ../busiprof/comments.php:21 ../busiprof/comments.php:30
+#: ../rambo/comments.php:15 ../rambo/comments.php:26
+#: ../spasalon/comments.php:14 ../spasalon/comments.php:23
+#: ../twentythirteen/comments.php:46 ../twentytwelve/comments.php:43
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:13
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:23
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../busiprof/comments.php:22 ../busiprof/comments.php:31
+#: ../rambo/comments.php:16 ../rambo/comments.php:27
+#: ../spasalon/comments.php:15 ../spasalon/comments.php:24
+#: ../twentythirteen/comments.php:47 ../twentytwelve/comments.php:44
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:14
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../busiprof/comments.php:38 ../rambo/comments.php:35
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:32
+msgid "You must be"
+msgstr ""
+
+#: ../busiprof/comments.php:38
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:32
+msgid "logged in"
+msgstr ""
+
+#: ../busiprof/comments.php:38 ../rambo/comments.php:35
+msgid "to post a comment"
+msgstr ""
+
+#: ../busiprof/comments.php:51 ../rambo/comments.php:59
+#: ../spasalon/comments.php:47
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:53
+msgid "Logged in as "
+msgstr ""
+
+#: ../busiprof/comments.php:51 ../rambo/comments.php:59
+#: ../spasalon/comments.php:47
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:53
+msgid " Log out?"
+msgstr ""
+
+#: ../busiprof/comments.php:53
+msgid "Submit Now"
+msgstr ""
+
+#: ../busiprof/comments.php:55 ../rambo/comments.php:63
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../busiprof/footer.php:64
+msgid " Powered by "
+msgstr ""
+
+#: ../busiprof/footer.php:65 ../rambo/footer.php:42
+#: ../twentythirteen/footer.php:19 ../twentytwelve/footer.php:16
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../busiprof/footer.php:66
+msgid "Designed by"
+msgstr ""
+
+#: ../busiprof/footer.php:67
+msgid "http://www.webriti.com/"
+msgstr ""
+
+#: ../busiprof/footer.php:67
+msgid "Webriti "
+msgstr ""
+
+#: ../busiprof/functions.php:111 ../rambo/functions.php:61
+#: ../twentytwelve/functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: ../busiprof/functions.php:135 ../spasalon/functions.php:47
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions.php:68
+msgid " Sidebar"
+msgstr ""
+
+#: ../busiprof/functions.php:137
+#: ../rambo/functions/widget/custom-sidebar.php:9 ../spasalon/functions.php:49
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions.php:70
+msgid "The primary widget area"
+msgstr ""
+
+#: ../busiprof/functions.php:145
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: ../busiprof/functions.php:147
+msgid "The first footer widget area"
+msgstr ""
+
+#: ../busiprof/functions.php:155
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: ../busiprof/functions.php:157
+msgid "The second footer widget area"
+msgstr ""
+
+#: ../busiprof/functions.php:165
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: ../busiprof/functions.php:167
+msgid "The third footer widget area"
+msgstr ""
+
+#: ../busiprof/functions.php:175
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: ../busiprof/functions.php:177
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: ../busiprof/index-slider.php:26 ../busiprof/theme_setup_data.php:24
+msgid "Busiprof With Responsive Design"
+msgstr ""
+
+#: ../busiprof/index-slider.php:31
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome wordpress themes with amazing support and ...."
+msgstr ""
+
+#: ../busiprof/index-testimonials.php:51
+msgid "NO POST TO DISPLAY..."
+msgstr ""
+
+#: ../busiprof/index.php:42 ../busiprof/page.php:33 ../rambo/index.php:31
+msgid "Tags:"
+msgstr ""
+
+#: ../busiprof/search.php:22 ../rambo/search.php:7
+#: ../twentythirteen/search.php:18 ../twentytwelve/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../busiprof/search.php:40 ../rambo/search.php:26 ../spasalon/search.php:28
+#: ../twentythirteen/content-none.php:12 ../twentytwelve/content-none.php:13
+#: ../twentytwelve/index.php:49 ../twentytwelve/search.php:34
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/search.php:28
+msgid "Nothing Found"
+msgstr ""
+
+#: ../busiprof/search.php:41 ../rambo/search.php:28 ../spasalon/search.php:30
+#: ../twentytwelve/search.php:38
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/search.php:30
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:22
+msgid "Backend as a Service Plateform for Any App Developer"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:25
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome wordpress themes with amazing support and .."
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:27
+msgid "Awesome"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:29 ../busiprof/theme_setup_data.php:52
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome wordpress themes & support"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:36 ../busiprof/theme_setup_data.php:37
+#: ../busiprof/theme_setup_data.php:38 ../busiprof/theme_setup_data.php:39
+msgid "Web Design"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:41 ../busiprof/theme_setup_data.php:42
+#: ../busiprof/theme_setup_data.php:43 ../busiprof/theme_setup_data.php:44
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome wordpress themes"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:47
+msgid "More Services"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:50
+msgid "Recent"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:51
+msgid "Projects"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:54 ../busiprof/theme_setup_data.php:60
+#: ../busiprof/theme_setup_data.php:65 ../busiprof/theme_setup_data.php:70
+msgid "Business Cards"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:56 ../busiprof/theme_setup_data.php:62
+#: ../busiprof/theme_setup_data.php:67 ../busiprof/theme_setup_data.php:72
+msgid "Graphic Design & Web Design"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:75
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:46
+msgid "Testimonials"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:76
+msgid "We are a group of passionate designers & developers"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:79 ../busiprof/theme_setup_data.php:84
+msgid ""
+"We are group of passionate designers and developers who really love to "
+"create awesome wordpress themes with amazing support & cooles video "
+"documentations..."
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:80
+msgid "Hari maliya"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:81 ../busiprof/theme_setup_data.php:86
+msgid "Web Developer"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:85
+msgid "Faraz Khan"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:88
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:133
+msgid "Recent Blog"
+msgstr ""
+
+#: ../busiprof/theme_setup_data.php:89
+msgid "We are a group of passionate designers &amp; developers"
+msgstr ""
+
+#: ../busiprof/functions/commentbox/comment-function.php:30
+#: ../rambo/functions/commentbox/comment-function.php:14
+#: ../spasalon/functions/comments/commentbox.php:9
+#: ../twentytwelve/functions.php:353
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions/comment/comment.php:11
+msgid "Reply"
+msgstr ""
+
+#: ../busiprof/functions/commentbox/comment-function.php:44
+#: ../rambo/functions/commentbox/comment-function.php:29
+#: ../spasalon/functions/comments/commentbox.php:28
+#: ../twentytwelve/functions.php:344
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions/comment/comment.php:32
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../busiprof/functions/theme_options/help.php:2
+msgid "Get Support"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/help.php:3
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/help.php:6
+msgid "If you have any question or need support then feel free to contact us "
+msgstr ""
+
+#: ../busiprof/functions/theme_options/help.php:3
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/help.php:6
+msgid "via the"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/help.php:3
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/help.php:6
+msgid "WordPress Support Forums"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/help.php:4
+msgid "Upgrade to Premium Version"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/help.php:5
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/help.php:16
+msgid ""
+"Upgrade to the premium to get access to Additional features like Mutiple "
+"Page Templates , HomePage Sliders, Custom Widget etc."
+msgstr ""
+
+#: ../busiprof/functions/theme_options/help.php:6
+msgid "Get the Pro Version"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:54
+msgid "Recent Projects"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:57
+msgid "Home Project Heading One"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:60
+msgid "Enter home project heading one"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:63
+msgid "Home Project Heading Two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:66
+msgid "Enter home project heading two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:69
+#: ../busiprof/functions/theme_options/home_page_project.php:131
+#: ../busiprof/functions/theme_options/home_page_project.php:163
+#: ../busiprof/functions/theme_options/home_page_project.php:196
+msgid "Project Tagline"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:72
+msgid "Enter home project tagline"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:80
+msgid "Projects One"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:83
+msgid "Projectt title one"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:86
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_footer_customization.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "Enter home project title one"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:89
+msgid "Project thumb one"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:93
+msgid "Enter home project thumb one 495 x 265"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:96
+#: ../busiprof/functions/theme_options/home_page_project.php:124
+#: ../busiprof/functions/theme_options/home_page_project.php:156
+#: ../busiprof/functions/theme_options/home_page_project.php:188
+msgid "Project text "
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:99
+#: ../busiprof/functions/theme_options/home_page_project.php:159
+#: ../busiprof/functions/theme_options/home_page_project.php:191
+msgid "Enter project description"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:108
+msgid "Projects Two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:111
+msgid "Projectt title two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:114
+#: ../busiprof/functions/theme_options/home_page_project.php:146
+#: ../busiprof/functions/theme_options/home_page_project.php:178
+msgid "Enter project title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:117
+msgid "Project thumb two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:121
+msgid "Enter project thumb 495 X 265"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:127
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Enter description"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:133
+#: ../busiprof/functions/theme_options/home_page_project.php:165
+#: ../busiprof/functions/theme_options/home_page_project.php:198
+msgid "Enter project teo url"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:140
+msgid "Projects Three"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:143
+msgid "Projectt title three"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:149
+msgid "Project thumb three"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:153
+msgid "Enter project thumb 495 x 265"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:172
+msgid "Projects Four"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:175
+msgid "Projectt title four"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:181
+msgid "Project thumb four"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:185
+msgid "Enter project thumb 495 x 262"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:205
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:153
+#: ../busiprof/functions/theme_options/theme_home_page.php:305
+#: ../spasalon/option_pannel/contact_page_settings.php:150
+#: ../spasalon/option_pannel/footer_customization.php:1
+#: ../spasalon/option_pannel/general_settings.php:92
+#: ../spasalon/option_pannel/home.php:165
+#: ../spasalon/option_pannel/homepage_slider.php:118
+#: ../spasalon/option_pannel/typography.php:402
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_footer_customization.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "Save Changes"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_project.php:206
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:154
+#: ../busiprof/functions/theme_options/theme_home_page.php:306
+#: ../spasalon/option_pannel/contact_page_settings.php:151
+#: ../spasalon/option_pannel/footer_customization.php:1
+#: ../spasalon/option_pannel/general_settings.php:93
+#: ../spasalon/option_pannel/home.php:166
+#: ../spasalon/option_pannel/homepage_slider.php:119
+#: ../spasalon/option_pannel/typography.php:403
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_footer_customization.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:49
+msgid "Testimonials title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:52
+msgid "Enter testimonials title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:55
+msgid "Testimonials description"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:58
+msgid "Enter testimonials description"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:66
+msgid "Testimonials One"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:69
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:103
+msgid "Testimonials Image"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:73
+msgid "Image must be in 60 X 250"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:77
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:110
+msgid "Testimonials text"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:80
+msgid "Enter testimominals"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:83
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:116
+msgid "Testimonials name"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:86
+msgid "Enter Testimonials name"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:89
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:122
+msgid "Testimonials Designation"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:92
+msgid "Enter Testimonials designation"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:100
+msgid "Testimonials Two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:107
+msgid "Image must be in 60 X 250 px"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:113
+msgid "Enter Testimonials descriptions"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:119
+msgid "Enter testimonials name"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:125
+msgid "Enter testimonials designations"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:136
+msgid "Recent blog title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:139
+msgid "Enter recent blog title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:142
+msgid "Recent blog description"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/home_page_testimonials.php:145
+msgid "Enter recent blog desccriptions"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:64
+msgid "Custom Static Front Page"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:67
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Do you want display Static Front Page: "
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:72
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "front page option"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:76
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Shows Custom Static Front Page"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:80
+#: ../busiprof/functions/theme_options/theme_home_page.php:83
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:46
+#: ../spasalon/option_pannel/general_settings.php:40
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+msgid "Custom Logo"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:87
+msgid "Logo Must be in 60 X 250 px"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:95
+msgid "Favicon Icon Use .ico files or 32 X 32 px"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:103
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:41
+msgid "Home Image"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:106
+msgid "Slider Head Title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:109
+msgid "Enter the Slide Image Header"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:113
+msgid "Slide Image"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:118
+msgid "Use Image of 1440 X 885 px for better view"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:121
+msgid "Home Image Caption "
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:124
+msgid "Enter Caption for The Home Image"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:127
+msgid "Home Image Caption Description "
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:130
+msgid "Enter Description for The Home Image"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:141
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+msgid "Enter your Custom css"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:144
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+msgid "Enter Custom CSS Code For Example: #service { color:#000;}"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:152
+msgid "Service Heading"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:155
+msgid "Service Heading One"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:158
+msgid "Enter the Service Heading One"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:162
+msgid "Service Heading Two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:165
+#: ../busiprof/functions/theme_options/theme_home_page.php:177
+#: ../busiprof/functions/theme_options/theme_home_page.php:183
+msgid "Enter the Service Heading Two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:168
+msgid "Service Tagline  Description"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:171
+#: ../busiprof/functions/theme_options/theme_home_page.php:198
+msgid "Enter Description for Tagline"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:174
+msgid "More Service Button text"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:180
+msgid "More Service Button Link"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:191
+msgid "Home Page Service One"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:194
+msgid "Home Page Service One Icon"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:202
+msgid "Home Page Service One Title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:205
+msgid "Enter the service one title "
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:208
+msgid "Service One Description"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:211
+msgid "Enter description for service one "
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:220
+msgid "Home Page Service Two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:223
+msgid "Home Page Service Two Icon"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:227
+msgid "Enter the service heading two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:231
+msgid "Home Page Service two Title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:234
+msgid "Enter the service two title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:237
+msgid "Service two Description"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:240
+msgid "Enter description for service two"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:248
+msgid "Home Page Service three"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:251
+msgid "Home Page Service Three Icon"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:255
+msgid "Enter the service heading three"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:259
+msgid "Home Page Service Three Title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:263
+msgid "Enter the service three title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:266
+msgid "Service Three Description"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:269
+msgid "Enter  description for sevice three"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:277
+msgid "Home Page Service four"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:280
+msgid "Home Page Service four Icon"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:284
+msgid "Enter the serive heading four"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:288
+msgid "Home Page Service Four Title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:291
+msgid "Enter the serive four title"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:294
+msgid "Service Four Description"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_home_page.php:297
+msgid "Enter description for service four"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_option_sidbar.php:3
+msgid "Support"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_option_sidbar.php:6
+msgid "The best way to contact me with"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_option_sidbar.php:6
+msgid "support questions"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_option_sidbar.php:6
+msgid "and"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_option_sidbar.php:6
+msgid "bug reports"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_option_sidbar.php:6
+msgid "is via the"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/theme_option_sidbar.php:6
+msgid "WordPress support forums"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:6
+msgid "Busiprof Lite By"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:8
+msgid "Upgrade to Busiprof Pro!"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:10
+#: ../rambo/functions/theme_options/upgradepro.php:7
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:11
+msgid "Rate Busiprof"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:20
+msgid "Busiprof-Pro"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:25
+#: ../rambo/functions/theme_options/upgradepro.php:22
+msgid "Features"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:26
+#: ../rambo/functions/theme_options/upgradepro.php:23
+msgid "Free"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:27
+#: ../rambo/functions/theme_options/upgradepro.php:24
+msgid "Premium"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:32
+#: ../rambo/functions/theme_options/upgradepro.php:29
+msgid "Intuitive Option Panel"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:32
+#: ../rambo/functions/theme_options/upgradepro.php:29
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:45
+msgid "Customize theme with intutive option panel."
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:37
+#: ../rambo/functions/theme_options/upgradepro.php:34
+msgid "Translation Ready"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:37
+#: ../rambo/functions/theme_options/upgradepro.php:34
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:54
+msgid "Translate the theme into your own language."
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:43
+#: ../rambo/functions/theme_options/upgradepro.php:40
+msgid "Customizable Home Page"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:44
+#: ../rambo/functions/theme_options/upgradepro.php:41
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:63
+msgid "Customize the Home Page by adding you own Images and Text."
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:50
+#: ../rambo/functions/theme_options/upgradepro.php:47
+msgid "Responsive Home Page Slider"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:51
+#: ../rambo/functions/theme_options/upgradepro.php:48
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:71
+msgid "Showcase your most important services with the Home Page Slider."
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:57
+#: ../rambo/functions/theme_options/upgradepro.php:54
+msgid "Page Templates"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:58
+#: ../rambo/functions/theme_options/upgradepro.php:55
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:79
+msgid "Number of Page Templates which come with the Theme"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:64
+#: ../rambo/functions/theme_options/upgradepro.php:61
+msgid "About Us Template"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:65
+#: ../rambo/functions/theme_options/upgradepro.php:62
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:88
+msgid "Showcase the team behind your business with About Us Template."
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:76
+#: ../rambo/functions/theme_options/upgradepro.php:68
+msgid "Contact Form Template"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:77
+#: ../rambo/functions/theme_options/upgradepro.php:69
+msgid "Premium version comes with a beautiful contact page template. "
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:84
+#: ../rambo/functions/theme_options/upgradepro.php:76
+msgid "Services Template"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:85
+#: ../rambo/functions/theme_options/upgradepro.php:77
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:97
+msgid ""
+"Showcase different services which your business offers.It is available in "
+"single column and two column layout"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:91
+#: ../rambo/functions/theme_options/upgradepro.php:83
+msgid "Portfolio Template"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:92
+#: ../rambo/functions/theme_options/upgradepro.php:84
+msgid ""
+"Showcase your work with Postfolio Template. Available in 2, 3 & 4 Column "
+"Layout."
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:98
+#: ../rambo/functions/theme_options/upgradepro.php:90
+msgid "Custom Widgets"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:99
+#: ../rambo/functions/theme_options/upgradepro.php:91
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:118
+msgid "Customize the sidebar with the included widgets"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:105
+#: ../rambo/functions/theme_options/upgradepro.php:97
+msgid "Theme Support "
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:106
+#: ../rambo/functions/theme_options/upgradepro.php:98
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:126
+msgid "Get our fast and friendly support."
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:107
+#: ../rambo/functions/theme_options/upgradepro.php:99
+msgid "Via Wordpress Forums"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:108
+#: ../rambo/functions/theme_options/upgradepro.php:100
+msgid "Private Forums with Email Support"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:112
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:114
+#: ../rambo/functions/theme_options/upgradepro.php:104
+#: ../rambo/functions/theme_options/upgradepro.php:106
+msgid "Get the Premium Version"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:126
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:136
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:20
+msgid "Home Page"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:127
+msgid "Home Project"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:128
+msgid "Home Testmonials"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:130
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:154
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:192
+msgid "Help and Support"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:141
+msgid "Home Page Project"
+msgstr ""
+
+#: ../busiprof/functions/theme_options/webr_options_pannel.php:146
+msgid "Home Page Testimonials"
+msgstr ""
+
+#: ../rambo/archive.php:34 ../rambo/author.php:25 ../rambo/index.php:25
+#: ../rambo/page.php:20 ../rambo/search.php:20 ../rambo/single.php:20
+msgid "By"
+msgstr ""
+
+#: ../rambo/footer.php:42
+msgid "Powered By "
+msgstr ""
+
+#: ../rambo/footer.php:42
+msgid "Designed By "
+msgstr ""
+
+#: ../rambo/footer.php:46 ../rambo/theme_setup_data.php:85
+msgid "Webriti"
+msgstr ""
+
+#: ../rambo/footer.php:47 ../rambo/theme_setup_data.php:83
+msgid "&copy;2013&nbsp;ALL Rights Reserved"
+msgstr ""
+
+#: ../rambo/functions.php:46 ../spasalon/functions.php:25
+msgid "Page"
+msgstr ""
+
+#: ../rambo/header.php:39
+msgid "R"
+msgstr ""
+
+#: ../rambo/header.php:39
+msgid "ambo"
+msgstr ""
+
+#: ../rambo/index-project.php:19 ../rambo/theme_setup_data.php:50
+msgid "Featured Portfolio Projects"
+msgstr ""
+
+#: ../rambo/index-project.php:20 ../rambo/theme_setup_data.php:51
+msgid ""
+"Maecenas sit amet tincidunt elit. Pellentesque habitant morbi tristique "
+"senectus et netus et Nulla facilisi."
+msgstr ""
+
+#: ../rambo/index-project.php:27 ../rambo/theme_setup_data.php:54
+msgid "Project ONE"
+msgstr ""
+
+#: ../rambo/index-project.php:28 ../rambo/index-project.php:37
+#: ../rambo/index-project.php:46 ../rambo/index-project.php:55
+msgid ""
+"Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit "
+"amet risus etiam porta sem."
+msgstr ""
+
+#: ../rambo/index-project.php:36 ../rambo/theme_setup_data.php:58
+msgid "Project Two"
+msgstr ""
+
+#: ../rambo/index-project.php:45 ../rambo/theme_setup_data.php:62
+msgid "Project Three"
+msgstr ""
+
+#: ../rambo/index-project.php:54 ../rambo/theme_setup_data.php:66
+msgid "Project Four"
+msgstr ""
+
+#: ../rambo/index-recentblog.php:9 ../rambo/theme_setup_data.php:71
+msgid "Latest News"
+msgstr ""
+
+#: ../rambo/index-service.php:22 ../rambo/theme_setup_data.php:33
+msgid "Service One"
+msgstr ""
+
+#: ../rambo/index-service.php:23 ../rambo/index-service.php:31
+#: ../rambo/index-service.php:40 ../rambo/index-service.php:49
+msgid ""
+"Mauris rhoncus pretium porttitor. Cras scelerisque commodo odio. Phasellus "
+"dolor enim, faucibus egestas scelerisque hendrerit, aliquet sed lorem."
+msgstr ""
+
+#: ../rambo/index-service.php:30 ../rambo/theme_setup_data.php:37
+msgid "Service Two"
+msgstr ""
+
+#: ../rambo/index-service.php:39 ../rambo/theme_setup_data.php:41
+msgid "Service Three"
+msgstr ""
+
+#: ../rambo/index-service.php:48 ../rambo/theme_setup_data.php:45
+msgid "Service Four"
+msgstr ""
+
+#: ../rambo/index-slider.php:18
+msgid "Theme Feature Goes Here !"
+msgstr ""
+
+#: ../rambo/index-slider.php:19 ../rambo/theme_setup_data.php:28
+msgid ""
+"Furniot makes content easy to view on any device with any resolution. You "
+"may check this with resizing. Fully Responsive Theme Amazing Design."
+msgstr ""
+
+#: ../rambo/index-theme-introduction.php:19 ../rambo/theme_setup_data.php:75
+msgid "Rambo is a clean and fully responsive Template."
+msgstr ""
+
+#: ../rambo/index-theme-introduction.php:20
+msgid ""
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis "
+"praesentium voluptatum deleniti atque corrupti quos excepturi  vehicula sem "
+"ut volutpat. Ut non libero magna fusce condimentum eleifend enim a feugiat."
+msgstr ""
+
+#: ../rambo/index-theme-introduction.php:23 ../rambo/theme_setup_data.php:77
+msgid "Purchase Now"
+msgstr ""
+
+#: ../rambo/theme_setup_data.php:27
+msgid "Theme Feature Goes Here!"
+msgstr ""
+
+#: ../rambo/theme_setup_data.php:34 ../rambo/theme_setup_data.php:38
+#: ../rambo/theme_setup_data.php:42 ../rambo/theme_setup_data.php:46
+#: ../rambo/theme_setup_data.php:55 ../rambo/theme_setup_data.php:59
+#: ../rambo/theme_setup_data.php:63
+msgid ""
+"Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit "
+"amet risus etiam porta sem"
+msgstr ""
+
+#: ../rambo/theme_setup_data.php:76
+msgid ""
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis "
+"praesentium voluptatum deleniti atque corrupti quos excepturi vehicula sem "
+"ut volutpat. Ut non libero magna fusce condimentum eleifend enim a feugiat."
+msgstr ""
+
+#: ../rambo/theme_setup_data.php:84
+msgid "Designed By"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes.php:348
+#: ../spasalon/functions/shortcodes/shortcode.php:152
+#: ../spasalon/functions/shortcodes/shortcodes.php:151
+msgid "1"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes.php:349
+#: ../spasalon/functions/shortcodes/shortcode.php:153
+#: ../spasalon/functions/shortcodes/shortcodes.php:152
+msgid "order"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:33
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:70
+msgid "Shortcode Selector"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:78
+msgid "Shortcodes"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:79
+msgid "Alert"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:80
+msgid "Button"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:81
+#: ../spasalon/option_pannel/option_pannel.php:13
+msgid "Tabs"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:82
+msgid "Drop-Caps"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:83
+msgid "Grid System Layout"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:84
+msgid "Tool Tip"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:85
+msgid "Heading"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:86
+msgid "Fontawesome with text"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:87
+msgid "Column"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:88
+msgid "Ordered List"
+msgstr ""
+
+#: ../rambo/functions/shortcodes/shortcodes_iframe.php:89
+msgid "Unordered List"
+msgstr ""
+
+#: ../rambo/functions/theme_options/upgradepro.php:3
+msgid "Rambo Lite By"
+msgstr ""
+
+#: ../rambo/functions/theme_options/upgradepro.php:5
+msgid "Upgrade to Rambo Pro!"
+msgstr ""
+
+#: ../rambo/functions/theme_options/upgradepro.php:8
+msgid "Rate Rambo"
+msgstr ""
+
+#: ../rambo/functions/theme_options/upgradepro.php:17
+msgid "Rambo-Pro"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:7
+msgid "Rambo"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:9
+msgid "Support Desk"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:10
+msgid "Theme Documentation"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:11
+msgid "View Changelog"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:21
+msgid "Quick Start"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:22
+msgid "Home Image Setting"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:26
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:2
+msgid "Service Section"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:29
+msgid "Project Section"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:32
+msgid "Call out Section"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:35
+msgid "Latest News Section"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:38
+#: ../spasalon/option_pannel/option_pannel.php:22
+msgid "Footer Customization"
+msgstr ""
+
+#: ../rambo/functions/theme_options/webriti_option_pannel.php:41
+msgid "Social media links"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:2
+msgid "Footer call out Area"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:38
+msgid "Enable Footer call out area"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:39
+msgid "Enable Footer called out area in fornt page."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:42
+msgid "Footer call out title"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:42
+msgid "Enter Footer call out title in short words"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:47
+msgid " Footer call out description"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:48
+msgid "Enter Footer call out description"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:53
+msgid "Footer call out button text"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:54
+msgid "Enter Footer call out button text"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:60
+msgid "Footer call out button link"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:61
+msgid "Enter Footer call out button link"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:71
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:81
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:79
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:91
+#: ../rambo/functions/theme_options/pages/lates_news_page_settings.php:47
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:164
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:139
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:66
+msgid "Options data successfully Saved"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_call_out_area_settings.php:72
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:82
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:80
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:92
+#: ../rambo/functions/theme_options/pages/lates_news_page_settings.php:48
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:165
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:140
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:67
+msgid "Options data successfully reset"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:2
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:159
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:187
+msgid "Footer Custmization"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:44
+msgid "Enable Footer widgets"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:45
+msgid "Enable Footer widgets in all pages."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:48
+msgid "Copy Rights Text"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:51
+msgid "Enter custom copy rights text."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:55
+msgid "Designed By Head"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:58
+msgid "Enter Privacy Policy Text."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:62
+msgid "Designed By Name"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:65
+msgid "Enter Name for Company/Website."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:69
+msgid "Designed By Link"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_customization_settings.php:72
+msgid "Enter URL for your website."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:2
+msgid "Social media Links"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:40
+msgid "Enable Social media in footer "
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:41
+msgid "Enable Social media icon in footer section."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:44
+msgid "Twitter Link:"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:47
+msgid "Enter twitter link."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:51
+msgid "Linkedin Links:"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:54
+msgid "Enter linkedin link."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:59
+msgid "Facebook Links:"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:62
+msgid "Enter facebook link."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:67
+msgid "Google Plus Links:"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/footer_social_media_settings.php:70
+msgid "Enter google plus link."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:38
+msgid "Quick Start Settings"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:42
+msgid "Enable Front Page"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:43
+msgid "Enable front page ."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:47
+msgid "Logo must be in 150 X 50 px"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:56
+msgid "Logo Height"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:57
+msgid "Logo height must be less then 80px"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:62
+msgid "Logo Width"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:63
+msgid "Logo width must be less then 200 px"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:68
+msgid "Text Title"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:69
+msgid "Enable text-based Site Title and Tagline. Setup title"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:69
+msgid "tagline in"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:69
+#: ../spasalon/option_pannel/general_settings.php:39
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:178
+msgid "General Settings"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:73
+msgid "Custom Favicon Must be in 25 X 25 px"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:82
+msgid "Custom css"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/header_page_settings.php:84
+msgid "Paste your custom css code and change your layout without code editing."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/lates_news_page_settings.php:33
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:37
+msgid "Enable Home Image in Front page"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/lates_news_page_settings.php:34
+msgid "Enable Latest News news on fornt page."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/lates_news_page_settings.php:37
+msgid "Latest News Title"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/lates_news_page_settings.php:39
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:53
+msgid "Enter Home image title"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:2
+msgid "Project protfolio"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:71
+msgid "Enable Home Project Portfolio"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:72
+msgid "Enable project-portfolio in fornt page."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:75
+msgid "Project tag line"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:77
+msgid "Enter tag line"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:80
+msgid "Project description"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:81
+msgid "Description must be less then 200 character"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:86
+msgid "Project Portfolio One "
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:95
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:114
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:133
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:151
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:78
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:94
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:110
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:125
+msgid "Title"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:97
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:116
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:135
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:153
+msgid "Enter project portfolio title"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:101
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:120
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:139
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:157
+msgid "Enter project portfolio description text less then 150 character ."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:105
+msgid "Project Portfolio two "
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:124
+msgid "Project Portfolio three "
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/project_page_settings.php:142
+msgid "Project Portfolio fourth "
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:67
+msgid "Enable Home Service Section"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:68
+msgid "Enable service section in fornt page."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:72
+msgid "Home Service One "
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:74
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:90
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:74
+msgid "Click here to font awesome icon"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:76
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:92
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:108
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:123
+msgid "Enter service fontawesome icon"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:80
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:96
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:127
+msgid "Enter home service title"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:84
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:100
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:116
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:131
+msgid "Enter home service description text less then 150 character ."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:88
+msgid "home service two "
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:104
+msgid "home service three "
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:112
+msgid "Enter home servicetitle"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/service_page_settings.php:119
+msgid "home service fourth "
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:38
+msgid "Enable home image on fornt page."
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:42
+msgid "Home Image must be in 1600 X 400 px"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:51
+msgid "Home Image Title"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:56
+msgid "Home Image Description"
+msgstr ""
+
+#: ../rambo/functions/theme_options/pages/slider_page_settings.php:58
+msgid "Enter home image description text less then 150 character ."
+msgstr ""
+
+#: ../rambo/functions/widget/custom-sidebar.php:7
+msgid "Sidebar"
+msgstr ""
+
+#: ../rambo/functions/widget/custom-sidebar.php:17
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../rambo/functions/widget/custom-sidebar.php:19
+msgid "footer widget area"
+msgstr ""
+
+#: ../spasalon/aboutus.php:13
+msgid "Welcome to "
+msgstr ""
+
+#: ../spasalon/aboutus.php:30
+msgid "Our Team"
+msgstr ""
+
+#: ../spasalon/aboutus.php:55
+msgid "Designation: "
+msgstr ""
+
+#: ../spasalon/aboutus.php:93
+msgid "Designation: Sr Therapist"
+msgstr ""
+
+#: ../spasalon/aboutus.php:95
+msgid ""
+"Cras sit amet nibh libero,in gravida nulla. Nulla vel metus scelerisque ante "
+"sollicitudin commodo in gravida nulla. Nulla vel metus scelerisque ante "
+"sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus "
+"viverra turpis."
+msgstr ""
+
+#: ../spasalon/aboutus.php:110
+msgid "Popular Procedures"
+msgstr ""
+
+#: ../spasalon/aboutus.php:139
+msgid "Ayurveda Spa"
+msgstr ""
+
+#: ../spasalon/aboutus.php:141 ../spasalon/aboutus.php:155
+msgid ""
+"In convallis hendrerit velit id vulputate.onvallis hendrerit velit id "
+"vulputate. Donec eget consequat urna. Pellentesque ac nibh risus. Duis "
+"scelerisque, metus ac  Donec eget consequat urna. Pellentesque ac nibh "
+"risus. Duis scelerisque, metus ac adipiscing."
+msgstr ""
+
+#: ../spasalon/aboutus.php:153
+msgid "Thermal Spa"
+msgstr ""
+
+#: ../spasalon/archive.php:8
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/archive.php:8
+msgid "Daily Archives:"
+msgstr ""
+
+#: ../spasalon/archive.php:10
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/archive.php:10
+msgid "Monthly Archives:"
+msgstr ""
+
+#: ../spasalon/archive.php:12
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/archive.php:12
+msgid "Yearly Archives:"
+msgstr ""
+
+#: ../spasalon/archive.php:14
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/archive.php:14
+msgid "Blog Archives"
+msgstr ""
+
+#: ../spasalon/blog.php:37 ../spasalon/page.php:31 ../spasalon/single.php:30
+#: ../twentythirteen/content-aside.php:14
+#: ../twentythirteen/content-audio.php:25
+#: ../twentythirteen/content-chat.php:24
+#: ../twentythirteen/content-gallery.php:25
+#: ../twentythirteen/content-image.php:24
+#: ../twentythirteen/content-link.php:25
+#: ../twentythirteen/content-quote.php:14
+#: ../twentythirteen/content-status.php:14
+#: ../twentythirteen/content-video.php:24 ../twentythirteen/content.php:42
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+#: ../twentytwelve/content-page.php:21 ../twentytwelve/content.php:42
+#: ../twentytwelve/image.php:102
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/page.php:31
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/single.php:30
+msgid "Pages:"
+msgstr ""
+
+#: ../spasalon/contact.php:13
+msgid "CONTACT INFO"
+msgstr ""
+
+#: ../spasalon/contact.php:15
+msgid "View Larger Map"
+msgstr ""
+
+#: ../spasalon/contact.php:18
+msgid "GET IN TOUCH"
+msgstr ""
+
+#: ../spasalon/contact.php:25
+msgid "Your Name"
+msgstr ""
+
+#: ../spasalon/contact.php:27
+msgid "Email*"
+msgstr ""
+
+#: ../spasalon/contact.php:29
+msgid "Subject"
+msgstr ""
+
+#: ../spasalon/contact.php:31
+msgid "Your Message"
+msgstr ""
+
+#: ../spasalon/contact.php:84
+msgid "Free phone:"
+msgstr ""
+
+#: ../spasalon/contact.php:85
+msgid "Telephone:"
+msgstr ""
+
+#: ../spasalon/contact.php:86
+msgid "Fax:"
+msgstr ""
+
+#: ../spasalon/contact.php:89
+msgid "Email:"
+msgstr ""
+
+#: ../spasalon/contact.php:96
+msgid "Week-Days"
+msgstr ""
+
+#: ../spasalon/contact.php:97
+msgid "Week-Ends"
+msgstr ""
+
+#: ../spasalon/contact.php:102 ../spasalon/index-slider.php:37
+#: ../spasalon/index-slider.php:89 ../spasalon/pink-header.php:26
+#: ../spasalon/option_pannel/home.php:60
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/index-slider.php:18
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/pink-header.php:26
+msgid "Call us on"
+msgstr ""
+
+#: ../spasalon/default_data.php:21
+msgid "Copyright 2013. All Rights Reserved by"
+msgstr ""
+
+#: ../spasalon/default_data.php:27 ../spasalon/default_products.php:8
+#: ../spasalon/default_products.php:13 ../spasalon/default_products.php:18
+#: ../spasalon/default_products.php:23 ../spasalon/default_products.php:28
+#: ../spasalon/default_products.php:33 ../spasalon/default_products.php:38
+#: ../spasalon/default_products.php:43 ../spasalon/default_products.php:48
+#: ../spasalon/default_products.php:53 ../spasalon/default_products.php:58
+#: ../spasalon/default_products.php:63
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:91
+msgid "Spa Salon"
+msgstr ""
+
+#: ../spasalon/default_data.php:28
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:92
+msgid "8901 Marmora Road,"
+msgstr ""
+
+#: ../spasalon/default_data.php:29
+msgid "Rajasthan,"
+msgstr ""
+
+#: ../spasalon/default_data.php:30
+msgid "India."
+msgstr ""
+
+#: ../spasalon/default_data.php:35
+#: ../spasalon/option_pannel/contact_page_settings.php:126
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:99
+msgid "Opening Hours"
+msgstr ""
+
+#: ../spasalon/default_data.php:36
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:107
+msgid "Treatment we are offering"
+msgstr ""
+
+#: ../spasalon/default_data.php:37
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:108
+msgid ""
+"In commodo pulvinar metus, id tristique massa ultrices at. Nulla auctor "
+"turpis ut mi pulvinar eu accumsan risus sagittis. Mauris nunc ligula, "
+"ullamcorper vitae accumsan eu, \n"
+"congue in nulla. Cras hendrerit mi quis nisi semper in sodales nisl "
+"faucibus. Sed quis quam eu ante ornare hendrerit."
+msgstr ""
+
+#: ../spasalon/default_data.php:40
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:110
+msgid "Spasalon Our product rang"
+msgstr ""
+
+#: ../spasalon/default_data.php:41
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:111
+msgid ""
+"A SpaSalon Produc Heading Title In commodo pulvinar metus, id tristique "
+"massa ultrices at. Nulla auctor turpis ut mi pulvinar eu accumsan risus "
+"sagittis. Mauris nunc ligula, ullamcorper vitae accumsan eu, congue in "
+"nulla. Cras hendrerit mi quis nisi semper in sodales nisl faucibus. Sed quis "
+"quam eu ante ornare hendrerit. "
+msgstr ""
+
+#: ../spasalon/default_data.php:96
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:14
+msgid "Header Menu"
+msgstr ""
+
+#: ../spasalon/default_data.php:97
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:15
+msgid "Footer Menu"
+msgstr ""
+
+#: ../spasalon/default_services.php:4
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:49
+msgid "Spa Treatment"
+msgstr ""
+
+#: ../spasalon/default_services.php:18
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:56
+msgid "Detox Treatment"
+msgstr ""
+
+#: ../spasalon/default_services.php:32
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:62
+msgid "Facial Treatment"
+msgstr ""
+
+#: ../spasalon/default_services.php:46
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:68
+msgid "Other Treatment"
+msgstr ""
+
+#: ../spasalon/index-slider.php:62
+msgid "Explore More"
+msgstr ""
+
+#: ../spasalon/index-slider.php:84
+msgid "our"
+msgstr ""
+
+#: ../spasalon/index-slider.php:85
+msgid "refreshed"
+msgstr ""
+
+#: ../spasalon/index-slider.php:87
+msgid ""
+"Donec justo odio, lobortis eget congue sed, rutrum sit amet mauris. "
+"Curabitur sed lectus nulla. Curabitur sed lectus nulla.lobortis eget congue "
+"sed, rutrum sit amet mauris. Curabitur sed lectus nulla rutrum sit amet "
+"mauris"
+msgstr ""
+
+#: ../spasalon/index-slider.php:89
+msgid "201 567 8978"
+msgstr ""
+
+#: ../spasalon/index-slider.php:100
+msgid "Producing"
+msgstr ""
+
+#: ../spasalon/index-slider.php:100
+msgid "Quality"
+msgstr ""
+
+#: ../spasalon/index-slider.php:107
+msgid "Cool"
+msgstr ""
+
+#: ../spasalon/index-slider.php:107
+msgid "Experience"
+msgstr ""
+
+#: ../spasalon/index-slider.php:114
+msgid "Feel"
+msgstr ""
+
+#: ../spasalon/index-slider.php:114
+msgid "Amazing"
+msgstr ""
+
+#: ../spasalon/search.php:7
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/search.php:7
+msgid "Search Results for:"
+msgstr ""
+
+#: ../spasalon/single-spa_products.php:29
+msgid "Related Products"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:9 ../spasalon/functions/cpt/cpt.php:10
+#: ../spasalon/functions/cpt/cpt.php:11 ../spasalon/functions/cpt/cpt.php:66
+msgid "Add New Service"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:12 ../spasalon/functions/cpt/cpt.php:41
+#: ../spasalon/functions/cpt/cpt.php:69 ../spasalon/functions/cpt/cpt.php:127
+msgid "New Link"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:13
+msgid "All Featured Services"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:14 ../spasalon/functions/cpt/cpt.php:43
+#: ../spasalon/functions/cpt/cpt.php:71 ../spasalon/functions/cpt/cpt.php:129
+msgid "View Link"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:15 ../spasalon/functions/cpt/cpt.php:44
+#: ../spasalon/functions/cpt/cpt.php:72 ../spasalon/functions/cpt/cpt.php:130
+msgid "Search Links"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:16 ../spasalon/functions/cpt/cpt.php:45
+#: ../spasalon/functions/cpt/cpt.php:73 ../spasalon/functions/cpt/cpt.php:131
+msgid "No Links found"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:17 ../spasalon/functions/cpt/cpt.php:46
+#: ../spasalon/functions/cpt/cpt.php:74 ../spasalon/functions/cpt/cpt.php:132
+msgid "No Links found in Trash"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:38
+msgid "Add New "
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:39
+msgid "Enter member name"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:40
+msgid "Add member name"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:42
+msgid "All Member"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:67 ../spasalon/functions/cpt/cpt.php:68
+msgid "Add new service"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:70
+msgid "All Services"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:124
+msgid "Add New Product"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:125
+msgid "Enter Product Name"
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:126
+msgid "Enter Product Name "
+msgstr ""
+
+#: ../spasalon/functions/cpt/cpt.php:128
+msgid "All Product"
+msgstr ""
+
+#: ../spasalon/functions/meta-box/metabox.php:20
+#: ../spasalon/functions/meta-box/metabox.php:37
+#: ../spasalon/functions/meta-box/metabox.php:50
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions/meta/metabox.php:21
+msgid "Banner Description"
+msgstr ""
+
+#: ../spasalon/functions/meta-box/metabox.php:22
+#: ../spasalon/functions/meta-box/metabox.php:39
+#: ../spasalon/functions/meta-box/metabox.php:52
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions/meta/metabox.php:24
+msgid "Banner Heading One"
+msgstr ""
+
+#: ../spasalon/functions/meta-box/metabox.php:24
+#: ../spasalon/functions/meta-box/metabox.php:41
+#: ../spasalon/functions/meta-box/metabox.php:54
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions/meta/metabox.php:27
+msgid "Banner Heading Two"
+msgstr ""
+
+#: ../spasalon/functions/meta-box/metabox.php:33
+msgid "Product detail"
+msgstr ""
+
+#: ../spasalon/functions/meta-box/metabox.php:35
+msgid "Price"
+msgstr ""
+
+#: ../spasalon/functions/meta-box/metabox.php:63
+msgid "Designation"
+msgstr ""
+
+#: ../spasalon/functions/meta-box/metabox.php:72
+msgid "Social Media Setting"
+msgstr ""
+
+#: ../spasalon/functions/meta-box/metabox.php:78
+msgid "Twitter Url"
+msgstr ""
+
+#: ../spasalon/functions/meta-box/metabox.php:84
+msgid "Google Url"
+msgstr ""
+
+#: ../spasalon/functions/shortcodes/types/product.php:85
+msgid "Select Product Category"
+msgstr ""
+
+#: ../spasalon/functions/shortcodes/types/service.php:87
+msgid "Select Service Category"
+msgstr ""
+
+#: ../spasalon/functions/shortcodes/types/service.php:104
+msgid "Select Style to display "
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-recent-posts.php:10
+#: ../spasalon/functions/widgets/spa-recent-posts.php:11
+msgid "Spa Recent Posts"
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-recent-posts.php:10
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-recent-posts.php:100
+#: ../spasalon/functions/widgets/spa-recent-products.php:108
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-recent-products.php:9
+msgid "The most recent products on your site"
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-recent-products.php:10
+msgid "Spa Recent Products"
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-widget-contact.php:8
+msgid "A widget that displays the authors contacts "
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-widget-contact.php:12
+msgid "Spa Contact Widget"
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-widget-contact.php:54
+msgid "Contact Us"
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-widget-contact.php:61
+msgid "Your Contact Number"
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-widget-contact.php:65
+msgid "Your  email"
+msgstr ""
+
+#: ../spasalon/functions/widgets/spa-widget-contact.php:69
+msgid "Your  city"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:50
+msgid "Contact Page Setting"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:52
+msgid "Add Google Link Here for Goolge Map"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:57
+msgid "Put Your Google Map Url above"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:57
+msgid "To know your Google Map Location Visit URL"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:62
+msgid "Company Name"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:70
+msgid "Address Line One"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:78
+msgid "Address Line Two"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:86
+msgid "Address Line Three"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:94
+msgid "Telephone Number"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:102
+msgid "Altenative Telephone Number"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:110
+msgid "Fax Number"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:118
+msgid "E-Mail Address"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:134
+msgid "Weekdays Timings"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:142
+msgid "Weekends Timings"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:152
+#: ../spasalon/option_pannel/footer_customization.php:1
+#: ../spasalon/option_pannel/general_settings.php:94
+#: ../spasalon/option_pannel/home.php:167
+#: ../spasalon/option_pannel/homepage_slider.php:120
+#: ../spasalon/option_pannel/typography.php:404
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_footer_customization.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "Data reset sucessfully"
+msgstr ""
+
+#: ../spasalon/option_pannel/contact_page_settings.php:153
+#: ../spasalon/option_pannel/footer_customization.php:1
+#: ../spasalon/option_pannel/general_settings.php:95
+#: ../spasalon/option_pannel/home.php:168
+#: ../spasalon/option_pannel/homepage_slider.php:121
+#: ../spasalon/option_pannel/typography.php:405
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_footer_customization.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "Data save sucessfully"
+msgstr ""
+
+#: ../spasalon/option_pannel/footer_customization.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_footer_customization.php:1
+msgid "Footer Copyrights"
+msgstr ""
+
+#: ../spasalon/option_pannel/general_settings.php:47
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+msgid "The placeholder image that will be used as a custom logo"
+msgstr ""
+
+#: ../spasalon/option_pannel/general_settings.php:52
+msgid "Header Logo Height"
+msgstr ""
+
+#: ../spasalon/option_pannel/general_settings.php:57
+#: ../spasalon/option_pannel/general_settings.php:66
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+msgid "The width of the header logo image."
+msgstr ""
+
+#: ../spasalon/option_pannel/general_settings.php:61
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+msgid "Header Logo width"
+msgstr ""
+
+#: ../spasalon/option_pannel/general_settings.php:76
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+msgid ""
+"The placeholder image that will be used if a featured image isnt specified."
+msgstr ""
+
+#: ../spasalon/option_pannel/general_settings.php:80
+msgid "Enable Spa Banner strip in all pages"
+msgstr ""
+
+#: ../spasalon/option_pannel/general_settings.php:83
+msgid "Enable spa banner strip in all pages."
+msgstr ""
+
+#: ../spasalon/option_pannel/home.php:12
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: ../spasalon/option_pannel/home.php:59
+msgid "Home Page Setting"
+msgstr ""
+
+#: ../spasalon/option_pannel/home.php:69
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Tagline Title"
+msgstr ""
+
+#: ../spasalon/option_pannel/home.php:77
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Tagline Content"
+msgstr ""
+
+#: ../spasalon/option_pannel/home.php:86
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Product Heading Title"
+msgstr ""
+
+#: ../spasalon/option_pannel/home.php:94
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Product Heading Content"
+msgstr ""
+
+#: ../spasalon/option_pannel/home.php:104
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Tagline Settings"
+msgstr ""
+
+#: ../spasalon/option_pannel/home.php:119
+#: ../spasalon/option_pannel/home.php:149
+#: ../spasalon/option_pannel/typography.php:111
+#: ../spasalon/option_pannel/typography.php:151
+#: ../spasalon/option_pannel/typography.php:185
+#: ../spasalon/option_pannel/typography.php:217
+#: ../spasalon/option_pannel/typography.php:371
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "px"
+msgstr ""
+
+#: ../spasalon/option_pannel/home.php:135
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Product Heading Settings"
+msgstr ""
+
+#: ../spasalon/option_pannel/homepage_slider.php:37
+msgid "Slider Banner Enable in home page"
+msgstr ""
+
+#: ../spasalon/option_pannel/homepage_slider.php:49
+msgid "Slider Entries"
+msgstr ""
+
+#: ../spasalon/option_pannel/homepage_slider.php:54
+msgid "Select a number"
+msgstr ""
+
+#: ../spasalon/option_pannel/homepage_slider.php:65
+msgid "Slider Effect"
+msgstr ""
+
+#: ../spasalon/option_pannel/homepage_slider.php:70
+msgid "fade"
+msgstr ""
+
+#: ../spasalon/option_pannel/homepage_slider.php:71
+msgid "slide"
+msgstr ""
+
+#: ../spasalon/option_pannel/homepage_slider.php:77
+msgid "Animation Speed"
+msgstr ""
+
+#: ../spasalon/option_pannel/homepage_slider.php:98
+msgid "Auto Slide Interval"
+msgstr ""
+
+#: ../spasalon/option_pannel/option_pannel.php:11
+msgid "Spa Theme Options"
+msgstr ""
+
+#: ../spasalon/option_pannel/option_pannel.php:21
+msgid "Homepage Slider"
+msgstr ""
+
+#: ../spasalon/option_pannel/option_pannel.php:24
+msgid "Contact Page Settings"
+msgstr ""
+
+#: ../spasalon/option_pannel/typography.php:98
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "Style Menus"
+msgstr ""
+
+#: ../spasalon/option_pannel/typography.php:139
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "Post Title"
+msgstr ""
+
+#: ../spasalon/option_pannel/typography.php:173
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../spasalon/option_pannel/typography.php:205
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "Post Meta"
+msgstr ""
+
+#: ../spasalon/option_pannel/typography.php:359
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_typography.php:1
+msgid "Sidebar Widgte Title"
+msgstr ""
+
+#: ../twentythirteen/404.php:16
+msgid "Not found"
+msgstr ""
+
+#: ../twentythirteen/404.php:21 ../twentytwelve/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentythirteen/archive.php:29 ../twentytwelve/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/archive.php:31 ../twentytwelve/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/archive.php:33 ../twentytwelve/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/archive.php:35 ../twentytwelve/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:30 ../twentytwelve/content.php:63
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentythirteen/category.php:19 ../twentytwelve/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/comments.php:52 ../twentytwelve/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../twentythirteen/content-aside.php:13
+#: ../twentythirteen/content-audio.php:24
+#: ../twentythirteen/content-gallery.php:24
+#: ../twentythirteen/content-image.php:23
+#: ../twentythirteen/content-link.php:24
+#: ../twentythirteen/content-quote.php:13
+#: ../twentythirteen/content-status.php:13
+#: ../twentythirteen/content-video.php:23 ../twentythirteen/content.php:41
+#: ../twentytwelve/content-aside.php:15 ../twentytwelve/content-image.php:13
+#: ../twentytwelve/content-link.php:14 ../twentytwelve/content-quote.php:13
+#: ../twentytwelve/content-status.php:31 ../twentytwelve/content.php:41
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-aside.php:28
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:29
+#: ../twentythirteen/content-gallery.php:39
+#: ../twentythirteen/content-image.php:35
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:25
+#: ../twentythirteen/content-status.php:19
+#: ../twentythirteen/content-video.php:35 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+#: ../twentytwelve/content-aside.php:26 ../twentytwelve/content-image.php:26
+#: ../twentytwelve/content-link.php:24 ../twentytwelve/content-page.php:24
+#: ../twentytwelve/content-quote.php:23 ../twentytwelve/content-status.php:40
+#: ../twentytwelve/content.php:48 ../twentytwelve/functions.php:349
+#: ../twentytwelve/image.php:37
+msgid "Edit"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/footer.php:19 ../twentytwelve/footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:220 ../twentytwelve/functions.php:215
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions.php:47
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:235
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:237
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentythirteen/functions.php:245
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:247
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:272
+msgid "Posts navigation"
+msgstr ""
+
+#: ../twentythirteen/functions.php:276 ../twentytwelve/functions.php:289
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions.php:22
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentythirteen/functions.php:280 ../twentytwelve/functions.php:290
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions.php:23
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:308 ../twentytwelve/functions.php:288
+#: ../twentytwelve/single.php:20
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/functions.php:21
+msgid "Post navigation"
+msgstr ""
+
+#: ../twentythirteen/functions.php:332
+msgid "Sticky"
+msgstr ""
+
+#: ../twentythirteen/functions.php:338 ../twentythirteen/functions.php:344
+#: ../twentytwelve/functions.php:376 ../twentytwelve/functions.php:379
+msgid ", "
+msgstr ""
+
+#: ../twentythirteen/functions.php:353 ../twentytwelve/functions.php:390
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:379 ../twentytwelve/content-aside.php:20
+#: ../twentytwelve/content-link.php:18 ../twentytwelve/content-quote.php:17
+#: ../twentytwelve/content-status.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/header.php:43 ../twentytwelve/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../twentythirteen/header.php:44 ../twentytwelve/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/tag.php:21 ../twentytwelve/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:41
+#: ../twentythirteen/inc/back-compat.php:53
+#: ../twentythirteen/inc/back-compat.php:68
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentytwelve/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:30
+msgid "1 Reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:30
+msgid "% Replies"
+msgstr ""
+
+#: ../twentytwelve/content-link.php:12
+msgid "Link"
+msgstr ""
+
+#: ../twentytwelve/content-none.php:17 ../twentytwelve/index.php:53
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../twentytwelve/content.php:16
+msgid "Featured post"
+msgstr ""
+
+#: ../twentytwelve/functions.php:244
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../twentytwelve/functions.php:246
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../twentytwelve/functions.php:254
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:256 ../twentytwelve/functions.php:266
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+
+#: ../twentytwelve/functions.php:264
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:317
+msgid "Pingback:"
+msgstr ""
+
+#: ../twentytwelve/functions.php:317
+msgid "(Edit)"
+msgstr ""
+
+#: ../twentytwelve/functions.php:332
+msgid "Post author"
+msgstr ""
+
+#: ../twentytwelve/functions.php:338
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../twentytwelve/functions.php:396
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:398
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:400
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../twentytwelve/image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentytwelve/image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentytwelve/index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: ../twentytwelve/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/author.php:12
+msgid "Author Archives: "
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:28
+msgid "<p id=\"comment\">comments are closed</p>"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/comments.php:32
+msgid "to post a comment."
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/footer.php:20
+msgid "Spasalon  Theme by"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/footer.php:20
+msgid "webriti.com"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/pink-header.php:15
+msgid "GET YOURSELF"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/pink-header.php:17
+msgid "REFRESHED"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/pink-header.php:22
+msgid ""
+" Banner Description Donec justo odio, lobortis eget congue sed, rutrum sit "
+"amet mauris. Curabitur sed lectus nulla. Curabitur sed lectus nulla.lobortis "
+"eget congue sed, rutrum sit amet mauris. Curabitur sed lectus nulla rutrum "
+"sit amet mauris "
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:37
+msgid "Our"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:38
+msgid "Refreshed"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:39
+msgid ""
+"Donec justo odio, lobortis eget congue sed, rutrum sit amet mauris. "
+"Curabitur sed lectus nulla.\n"
+"             Curabitur sed lectus nulla.lobortis eget congue sed, rutrum sit "
+"amet mauris. Curabitur sed \n"
+"             lectus nulla rutrum sit amet mauris"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:51
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:58
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:64
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:70
+msgid ""
+"Pellentesque habitant morbi tristique senectus \n"
+"                                                      et netus et malesuada "
+"fames ac turpis egestas \n"
+"                                                    In in massa urna, vitae "
+"vestibulum orci. yoursb\n"
+"                                                     Maecenas quis est sed "
+"mauris..."
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:76
+msgid "Product 1"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:79
+msgid "Product 2"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:82
+msgid "Product 3"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:85
+msgid "Product 4"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:88
+msgid "Product 5"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:93
+msgid "Industrial Area,"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:94
+msgid "IN"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/theme_setup.php:101
+msgid "Copyright 2013. All Rights Reserved by "
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/help.php:12
+msgid "Click here to open the Support Document"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_footer_customization.php:1
+msgid "Footer Tagline"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_general_settings.php:1
+msgid "Settings"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Custome Static Front Page"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Pink Highlight Strip "
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Line One"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Enter line one"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Line Two"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Enter line two"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Home Top Feature "
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload Feature Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid ""
+"The placeholder image that will be used as a FullWidth Featured On Home page"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Home Feature Thumbstrip setting "
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload First Thumb Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid ""
+"The placeholder image that will be used below the FullWidth Feature as "
+"featured Thumb"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload Second Thumb Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload Third Thumb Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Home Page Tegline "
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Tagline title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Home page Four Services Section "
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "First Service Title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload First Service Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "The placeholder image that will be used as a Service Image on Home Page"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "First Service Content"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Second Service Title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload Second Service Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Second Service Content"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Enter service content"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Third Service Title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Enter service title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload Third Service Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Third Service Content"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Fourth Service Title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Fourth Service Content"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Entert servce content"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Home page  Products Section "
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "First Product Title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload First Product Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "The placeholder image that will be used as Product Image on home page"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Second Product Title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload Second Product Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Third Product Title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload Third Product Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Fourth Product Title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload Fourth Product Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Fifth Product Title"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Upload Fifth Product Image"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_home.php:1
+msgid "Select product heading setting"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:8
+msgid "Upgrade to Spasalon Pro!"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:106
+msgid "Showcase different products which you offer."
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:161
+msgid "Help & Support"
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:165
+msgid "This theme recommends the following plugin: "
+msgstr ""
+
+#: ../webriti-spasalon-lite-1.2.6-a6458622b109/option_pannel/spa_options_pannel.php:165
+msgid "appointment calendar"
+msgstr ""
