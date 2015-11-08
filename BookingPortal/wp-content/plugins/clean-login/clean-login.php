@@ -100,7 +100,7 @@ add_shortcode('clean-login-edit', 'show_clean_login_edit');
 function show_clean_login_register($atts) {
 	
 	$param = shortcode_atts( array(
-        'role' => false,
+        'role' => false,  
     ), $atts );
 
 	ob_start();
