@@ -1,0 +1,93 @@
+
+{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 - research tagging jQuery plugins template\
+-  read ebooks\
+- create website and familiar with git}
+
+
+
+tagging
+
+https://teamtreehouse.com/features#how-it-works
+
+http://www.1stwebdesigner.com/image-tagging-tutorial/
+
+
+---
+use theme
+
+
+
+===>
+
+gettimely.com
+
+consumer view
+--> got website
+	--> put iframe widget to book, as popup on site
+
+---> no website
+	--> ThereOnTime.com/XXX company name
+
+
+business view
+---> customization area
+	---> put logo, tag line , notice
+	---->choose location, [wth map]
+	---> customize items/service available [choose single or multiple]
+	---> customize person available
+	---> customize business day, [date and time]
+	---> customize email receipeint to receive
+	---> customize customer field
+
+	http://www.a-saloon.com/
+
+=====================================
+
+target market
+---> dental, saloon,car workshop, pet grooming,gym
+
+value for business
+--> dont need use money n time - programmer/ developer on booking system
+--> track appointments-> analytics to identify peak trend, low season 
+--> newsletter to your regular booking customers on service operations
+
+--> why pay rm 100 month?
+	--> brand visiibility of biz to consumer. promotion.
+	--> convenience for consumer anytime anywhere online mobile
+	---> appointment support push notificaiton : email, phone
+		--> approval from both side[biz and consumer]/ auto approve appointment
+	---> cancellation and rescheduling booking
+	---> *promotion, push notification to consumer, eg newlestter and app.
+	---> chat features/ addiitonal
+	---> analytics benchmarks, eg. how many appointmnet in the industry. eg. successful booking in saloon industry, missed booking.
+	---> turnover rate.
+
+===website progress===
+
+- custmize general themeing
+- customize main navigation for user
+	- pages --> singup , login, edit profile,logout, booking page
+	- before login : news, login, signup
+	- after login: news, edit profile, logout
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+

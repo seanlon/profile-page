@@ -1,0 +1,18 @@
+A new installation of WordPress 4.3.1 has been completed. The details of the installation are shown below:
+Path : /home/seanlohc/public_html/BookingPortal
+URL : http://seanloh.com/BookingPortal
+Admin URL : http://seanloh.com/BookingPortal/wp-admin/
+Admin Username : admin 
+Admin Email: admin@seanloh.com
+MySQL Database : seanlohc_wp249
+MySQL DB User : seanlohc_wp249
+MySQL DB Host : localhost
+MySQL DB Password : 59Sy@P]7vX
+Update Notification : Enabled
+Auto Upgrade : Enabled
+Automated Backups : Disabled
+Time of Installation : November 5, 2015, 10:21 am
+
+202.75.56.136
+seanlohc_wp249
+59Sy@P]7vX

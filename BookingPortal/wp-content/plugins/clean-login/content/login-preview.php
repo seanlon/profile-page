@@ -18,11 +18,11 @@
 
 		<?php // Since 1.1 (show username or not) ?>
 
-		<h4>
+		<div>
 			<?php
 				if ( $show_user_information ) echo $current_user->user_login;
 			 ?>
 			<small><?php echo $current_user->user_firstname . ' ' . $current_user->user_lastname; ?></small>
-		</h4>
+		</div>
 	</div>		
 </div>

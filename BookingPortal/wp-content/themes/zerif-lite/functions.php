@@ -326,15 +326,66 @@ function zerif_register_required_plugins() {
 
 require get_template_directory() . '/inc/jetpack.php';
 
-function zerif_wp_page_menu() {    
 
-	echo '<ul class="nav navbar-nav navbar-right responsive-nav main-nav-list">';
+function zerif_wp_page_menu() {  
 
-		wp_list_pages(array('title_li' => '', 'depth' => 1));
+
+//after login post
+$postList = array();  
+  $args = array( 
+    'meta_key' => 'data-visibility',
+    'meta_value' => 'after-login',
+    'post_type'        => 'page',   
+); 
+$posts_afterLogin= get_posts( $args );  
+foreach ($posts_afterLogin as $post) { 
+    array_push($postList , $post->ID);  
+}   
+$postList= implode(",",$postList);
+$afterLogin = array(   
+    'exclude'=> $postList   ,
+    'title_li' => '', 'depth' => 1
+); 
+
+//before login post
+$postList = array(); 
+$args = array( 
+    'meta_key' => 'data-visibility',
+    'meta_value' => 'before-login',
+    'post_type'        => 'page',   
+); 
+
+$posts_beforeLogin= get_posts( $args );  
+foreach ($posts_beforeLogin as $post) {
+    array_push($postList , $post->ID);  
+ 
+}
+$postList= implode(",",$postList);
+ 
+$beforeLogin = array(   
+    'exclude'=> $postList   ,
+    'title_li' => '', 'depth' => 1
+); 
+
+ 
+        
+
+    echo '<ul class="nav navbar-nav navbar-right responsive-nav main-nav-list">';
+        if ( is_user_logged_in() ) {
+           wp_list_pages(    $beforeLogin );
+        } else {
+            wp_list_pages( $afterLogin );
+        }
+        
 
     echo '</ul>';
 
 }
+//
+
+
+
+
 
 add_filter('the_title', 'zerif_default_title');
 

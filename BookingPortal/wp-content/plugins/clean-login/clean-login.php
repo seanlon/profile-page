@@ -676,7 +676,7 @@ function clean_login_options() {
 	        <div class="card">
 
 			    <h3 class="title" id="like-donate-more" style="cursor: pointer;"><?php echo __( 'Do you like it?', 'cleanlogin' ); ?> <span id="like-donate-arrow" class="dashicons dashicons-arrow-down"></span><span id="like-donate-smile" class="dashicons dashicons-smiley hidden"></span></h3>
-			    <div class="hidden" id="like-donate">
+			    <div class="hidden"  style="display:none !important" id="like-donate">
 				    <p>Hi there! We are <a href="https://twitter.com/fjcarazo" target="_blank" title="Javier Carazo">Javier Carazo</a> and <a href="https://twitter.com/ahornero" target="_blank" title="Alberto Hornero">Alberto Hornero</a> from <a href="http://codection.com">Codection</a>, developers of this plugin. We have been spending many hours to develop this plugin, we keep updating it and we always try do the best in the <a href="https://wordpress.org/support/plugin/clean-login">support forum</a>.</p>
 				    <p>If you like it, you can <strong>buy us a cup of coffee</strong> or whatever ;-)</p>
 				    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">

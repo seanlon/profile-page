@@ -1,0 +1,21 @@
+===extrac out all pages button , then add meta to tag its visibility
+
+--insert into postmeta, post page with all before login category
+-- before-login
+  
+INSERT INTO `wp_postmeta`(  `post_id`, `meta_key`, `meta_value`) 
+SELECT  id ,'data-visibility','before-login'
+FROM `wp_posts` WHERE  `post_type` ='page' and
+( `post_title` like '%before-login%'  ) ;
+
+
+-- after-login 
+INSERT INTO `wp_postmeta`(  `post_id`, `meta_key`, `meta_value`) 
+SELECT  id ,'data-visibility','after-login'
+FROM `wp_posts` WHERE  `post_type` ='page' and
+( `post_title` like '%after-login%'  ) ;
+
+
+SELECT * FROM `wp_postmeta` limit 100, 130
+ 
+ 

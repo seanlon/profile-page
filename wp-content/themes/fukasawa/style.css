@@ -334,7 +334,7 @@ body a,
 
 .main-menu .current-menu-item:before,
 .main-menu .current_page_item:before {
-	content: '\f405';
+	content: '\f418';
 	display: block;
 	font: 16px/1 "Genericons";
 	color: #019EBD;
@@ -2127,7 +2127,7 @@ img#wpstats { display: none; }
 	
 	.mobile-menu .current-menu-item:before,
 	.mobile-menu .current_page_item:before {
-		content: '\f405';
+		content: '\f418';
 		display: block;
 		font: 16px/1 "Genericons";
 		color: #019EBD;
@@ -2435,7 +2435,7 @@ img#wpstats { display: none; }
  
 /*CUSTOMIZE THEME --> */
 .post.single ,.posts .post, .posts .page{ 
-		  background: rgba(255,255,255, 0.53); 
+		  background: rgba(255,255,255, 0.8); 
 		      border: 2px solid grey;
 }  
 
@@ -2447,6 +2447,22 @@ body:after {
 	background-position: 100%;
 	background-attachment:fixed;
 	opacity: 0.5;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: fixed;
+	z-index: -1;   
+}
+
+body.wp-is-mobile:after {
+	content: ""; 
+	background: url(http://seanloh.com/wp-content/uploads/2015/11/bg-min.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 100%;
+	background-attachment:fixed;
+	opacity: 0.25;  
 	top: 0;
 	left: 0;
 	bottom: 0;
