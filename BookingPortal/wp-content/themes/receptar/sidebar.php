@@ -35,12 +35,51 @@
 
 				echo receptar_accessibility_skip_link( 'to_content' );
 
+
+				//after login post
+				$postList = array();  
+				  $args = array( 
+				    'meta_key' => 'data-visibility',
+				    'meta_value' => 'after-login',
+				    'post_type'        => 'page',   
+				); 
+				$posts_afterLogin= get_posts( $args );  
+				foreach ($posts_afterLogin as $post) { 
+				    array_push($postList , $post->ID);  
+				}   
+				$afterLoginPostList= implode(",",$postList);
+			 
+				//before login post
+				$postList = array(); 
+				$args = array( 
+				    'meta_key' => 'data-visibility',
+				    'meta_value' => 'before-login',
+				    'post_type'        => 'page',   
+				); 
+
+				$posts_beforeLogin= get_posts( $args );  
+				foreach ($posts_beforeLogin as $post) {
+				    array_push($postList , $post->ID);  
+				 
+				}
+				$beforeLoginPostList= implode(",",$postList);
+				 
+				$ids ='';
+				if ( is_user_logged_in() ) {
+				  $ids =$beforeLoginPostList ;
+				} else 
+				{
+					$ids = $afterLoginPostList  ;
+				}  
+
 				wp_nav_menu( apply_filters( 'wmhook_navigation_args', array(
 						'theme_location'  => 'primary',
 						'container'       => 'div',
 						'container_class' => 'menu',
 						'menu_class'      => 'menu', //fallback for pagelist
 						'items_wrap'      => '<ul>%3$s</ul>',
+						'exclude' => $ids ,
+						'title_li' => '', 'depth' => 1
 					) ) );
 
 				?>
