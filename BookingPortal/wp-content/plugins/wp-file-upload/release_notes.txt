@@ -1,0 +1,8 @@
+<!--  --><span><strong>Latest release notes: </strong>This version introduces the following changes:</span>
+<ul style="list-style:disc; padding-left:18px;">
+	<li>Added a new feature to <strong>export</strong> the uploaded files' data to a comma-separated (csv) file. This option is inside <em>Maintenance Actions</em> of the plugin's area in Dashboard.</li>
+	<li>Most of the plugin's tables have obtained <strong>pagination</strong>, so that their contents are spanned over several pages. These tables are the <em>users' permissions</em> in plugin's Settings in Dashboard, the <em>back-end Uploaded Files Browser</em>, the <em>front-end File List Viewer</em> and the <em>Log Viewer</em>.</li>
+	<li>A new filter is introduced, <strong>wfu_before_frontpage_scripts</strong>, which runs before any front-end scripts and styles are declared. This filter can assist in resolving incompatibilities with other plugins relating to jQuery modules, such as the <em>NextGen Gallery</em> plugin.</li>
+	<li>The text domain of the plugin has changed to <strong>wp-file-upload</strong>, so that it can be internationalized through the <a href="http://translate.wordpress.org">Translation</a> feature of wordpress.org.</li>
+</ul>
+<span>Furthermore, the professional version of the plugin has introduced a very important feature, the ability to upload files to a <strong>Dropbox</strong> account. You can check it at the plugin's <a href="http://www.iptanus.com/wordpress-plugins/wordpress-file-upload/">support page</a>.</span><!--  --><!--  -->

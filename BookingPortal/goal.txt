@@ -40,17 +40,17 @@ business view
 	---> put logo, tag line , notice
 	---->choose location, [wth map]
 	---> customize items/service available [choose single or multiple]
-	---> customize person available
+	---> customize person available / i m feeling lukcy
 	---> customize business day, [date and time]
 	---> customize email receipeint to receive
-	---> customize customer field
+	---> customize customer field 
 
 	http://www.a-saloon.com/
 
 =====================================
 
 target market
----> dental, saloon,car workshop, pet grooming,gym
+---> dental, saloon,car workshop, pet grooming,gym ,rent musician, consultant time, [service] , jump street entry,counselling
 
 value for business
 --> dont need use money n time - programmer/ developer on booking system
@@ -75,6 +75,9 @@ value for business
 	- pages --> singup , login, edit profile,logout, booking page
 	- before login : news, login, signup
 	- after login: news, edit profile, logout
+
+
+
 
 
 
