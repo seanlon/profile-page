@@ -1667,15 +1667,8 @@
 						echo '<div class="site-info" role="contentinfo">';
 							echo apply_filters( 'wmhook_receptar_credits_output',
 									'&copy; ' . date( 'Y' ) . ' <a href="' . home_url( '/' ) . '" title="' . get_bloginfo( 'name' ) . '">' . get_bloginfo( 'name' ) . '</a>. '
-									. sprintf(
-											esc_html__( 'Powered by %s.', 'receptar' ),
-											'<a href="https://wordpress.org">WordPress</a>'
-										)
-									. ' '
-									. sprintf(
-											esc_html__( 'Theme by %s.', 'receptar' ),
-											'<a href="' . esc_url( wp_get_theme()->get( 'AuthorURI' ) ) . '">WebMan Design</a>'
-										)
+									 
+									. ' ' 
 								);
 						echo '</div>';
 					echo '</div>';
