@@ -18,18 +18,19 @@
 				<input type='text' name='website' value=" ">
 			</div>
 			
-				<?php if ($param['role']=='contributor') : ?>
-			<div class="cleanlogin-field">
-				<input class="cleanlogin-field-bizname" type="bizname" name="bizname" value="" placeholder="<?php echo __( 'Business Name', 'cleanlogin' ); ?>">
-			</div>
+			 <?php if ($param['role']=='contributor') : ?>
+				<div class="cleanlogin-field">
+					<input class="cleanlogin-field-bizname" type="bizname" 
+					name="bizname" value=""
+					 placeholder="<?php echo __( 'Business Name', 'cleanlogin' ); ?>">
+				</div>
 			<?php endif; ?>
 				
 			<div class="cleanlogin-field">
-				<input class="cleanlogin-field-mobile" type="mobile" name="mobile" value="" placeholder="<?php echo __( 'New password', 'cleanlogin' ); ?>">
-			</div>
-		
-
-
+				<input class="cleanlogin-field-mobile" 
+				type="mobile" name="mobile" value="" 
+				placeholder="<?php echo __( 'Mobile No, eg 0102264981', 'cleanlogin' ); ?>">
+			</div>  
 
 			<div class="cleanlogin-field">
 				<input class="cleanlogin-field-password" type="password" name="pass1" value="" autocomplete="off" placeholder="<?php echo __( 'New password', 'cleanlogin' ); ?>">

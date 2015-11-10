@@ -92,6 +92,8 @@ to your current WordPress template, and if something behaves abnormal please con
 }
 
 .cleanlogin-form input[type="text"],
+.cleanlogin-form input[type="bizname"],
+.cleanlogin-form input[type="mobile"],
 .cleanlogin-form input[type="password"],
 .cleanlogin-form input[type="email"],
 .cleanlogin-form input[type="submit"] {
@@ -139,6 +141,14 @@ to your current WordPress template, and if something behaves abnormal please con
 	padding-left: 36px !important;
 }
 
+.cleanlogin-field-bizname {
+	background: url('images/biz.png') no-repeat;
+	padding-left: 36px !important;
+}
+.cleanlogin-field-mobile {
+	background: url('images/phone.png') no-repeat;
+	padding-left: 36px !important;
+}
 .cleanlogin-field-password {
 	background: url('images/pwd.png') no-repeat;
 	padding-left: 36px !important;

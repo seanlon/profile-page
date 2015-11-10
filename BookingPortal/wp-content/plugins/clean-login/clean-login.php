@@ -249,9 +249,11 @@ function clean_login_load_before_headers() {
 
 				$first_name = isset( $_POST['first_name'] ) ? $_POST['first_name'] : '';
 				$last_name = isset( $_POST['last_name'] ) ? $_POST['last_name'] : '';
-				$userdata['first_name'] = $first_name;
-				$userdata['last_name'] = $last_name;
-			
+				$userdata['first_name'] = $first_name; 
+				$userdata['last_name'] = $last_name; 
+ 
+		 
+
 				$email = isset( $_POST['email'] ) ? $_POST['email'] : '';
 				if ( ! $email || empty ( $email ) ) {
 					$url = esc_url( add_query_arg( 'updated', 'wrongmail', $url ) );
@@ -279,8 +281,20 @@ function clean_login_load_before_headers() {
 					}
 					
 				}
+				//biz name 
+					if ( isset( $_POST['bizname'] ) && ! empty( $_POST['bizname'] ) ) {  
+							$userdata['bizname'] = $_POST['bizname'];  
+				}
+				// mobile
+					if ( isset( $_POST['mobile'] ) && ! empty( $_POST['mobile'] ) ) {  
+							$userdata['mobile'] = $_POST['mobile'];  
+				}
 
-				$user_id = wp_update_user( $userdata );
+				$user_id = wp_update_user( $userdata ); 
+				update_user_meta(  $user_id, 'mobile',  $userdata['mobile'] );
+				update_user_meta(  $user_id, 'bizname',   $userdata['bizname'] );
+ 
+
 				if ( is_wp_error( $user_id ) ) {
 					$url = esc_url( add_query_arg( 'updated', 'failed', $url ) );
 				}
@@ -333,6 +347,11 @@ function clean_login_load_before_headers() {
 				$role = isset( $_POST['role'] ) ? $_POST['role'] : '';
 				$terms = isset( $_POST['termsconditions'] ) && $_POST['termsconditions'] == 'on' ? true : false;
 				
+				$bizname = isset( $_POST['bizname'] ) ? $_POST['bizname'] : '';
+				$mobile = isset( $_POST['mobile'] ) ? $_POST['mobile'] : '';
+		 
+
+
 				// terms and conditions
 				if( $termsconditions && !$terms )
 					$url = esc_url( add_query_arg( 'created', 'terms', $url ) );
@@ -368,7 +387,12 @@ function clean_login_load_before_headers() {
 						}
 						else if ( $create_standby_role )
 							$user->set_role( 'standby' );
-						
+	 
+
+						add_user_meta( $user_id , 'mobile', $mobile  );
+						add_user_meta( $user_id , 'bizname', $bizname  );
+
+
 						$adminemail = get_bloginfo( 'admin_email' );
 						$blog_title = get_bloginfo();
 						if ( $create_standby_role )

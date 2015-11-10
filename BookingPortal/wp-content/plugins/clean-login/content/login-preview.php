@@ -19,10 +19,13 @@
 		<?php // Since 1.1 (show username or not) ?>
 
 		<div>
+			<p> 
 			<?php
 				if ( $show_user_information ) echo $current_user->user_login;
-			 ?>
-			<small><?php echo $current_user->user_firstname . ' ' . $current_user->user_lastname; ?></small>
+			 ?> 
+			 </p>
+			 <p><?php echo $current_user->user_firstname . ' ' . $current_user->user_lastname; ?></p>
 		</div>
+
 	</div>		
 </div>

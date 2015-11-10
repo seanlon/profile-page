@@ -1,0 +1,23 @@
+ 
+ALTER TABLE `wp_ea_appointments` ADD userid bigint( 20 ) after `id` 
+ALTER TABLE `wp_ea_connections` ADD userid bigint( 20 ) after `id` 
+ALTER TABLE `wp_ea_fields` ADD userid bigint( 20 ) after `id` 
+ALTER TABLE `wp_ea_locations` ADD userid bigint( 20 ) after `id` 
+ALTER TABLE `wp_ea_meta_fields` ADD userid bigint( 20 ) after `id`  
+ALTER TABLE `wp_ea_options` ADD userid bigint( 20 ) after `id` 
+ALTER TABLE `wp_ea_services` ADD userid bigint( 20 ) after `id` 
+ALTER TABLE `wp_ea_staff` ADD userid bigint( 20 ) after `id` 
+
+	
+
+ALTER TABLE `wp_es_deliverreport` ADD userid bigint( 20 ) after `es_deliver_id` 
+
+
+ALTER TABLE `wp_es_emaillist` ADD userid bigint( 20 ) after `es_email_id` 
+ALTER TABLE `wp_es_notification` ADD userid bigint( 20 ) after `es_notification_id` 
+
+
+
+
+wp_es_pluginconfig
+wp_es_sentdetails

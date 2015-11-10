@@ -1,6 +1,6 @@
 <?php
 	global $current_user;
-	get_currentuserinfo();
+	get_currentuserinfo();f
 ?>
 
 <div class="cleanlogin-container cleanlogin-full-width"> 
@@ -23,11 +23,27 @@
 				<input type="text" name="last_name" value="<?php echo $current_user->user_lastname; ?>">
 			</div>
 			
+	 
+				
+
+	 <?php if ( $current_user->roles[0] =='contributor') : ?>
+			<div class="cleanlogin-field">
+				<label><?php echo __( 'Business name', 'cleanlogin' ); ?></label>
+				<input type="text" name="bizname" value="<?php echo  get_user_meta( $current_user->ID,  'bizname' ,true) ; ?>">
+			</div>
+			
+			<?php endif; ?>
+			<div class="cleanlogin-field">
+				<label><?php echo __( 'Mobile', 'cleanlogin' ); ?></label>
+				<input type="text" name="mobile" value="<?php echo get_user_meta( $current_user->ID,  'mobile',true )  ?>">
+			</div>
 			<div class="cleanlogin-field">
 				<label><?php echo __( 'E-mail', 'cleanlogin' ); ?></label>
 				<input type="text" name="email" value="<?php echo $current_user->user_email; ?>">
 			</div>
-			
+			<div class="cleanlogin-field">
+			 
+			</div>
 		</fieldset>
 
 		<h4><?php echo __( 'Change password', 'cleanlogin' ); ?></h4>
