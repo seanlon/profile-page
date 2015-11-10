@@ -714,3 +714,7 @@
 	<p><a href="#" class="deletion item-delete">Delete</a> | <a href="#" class="item-save">Apply</a></p>
 </div>
 </script>
+
+ <script type="text/javascript">
+  	var ea_ajaxurl = '<?php echo admin_url("admin-ajax.php"); ?>';
+   </script>

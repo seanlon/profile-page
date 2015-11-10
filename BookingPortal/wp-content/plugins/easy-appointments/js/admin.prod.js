@@ -1,10 +1,9 @@
 (function($) {
 
-    var EA = {};
-    var ajaxurl ;
+    var EA = {}; 
     /**
      * Single location
-     */
+     */ 
     EA.Location = Backbone.Model.extend({
         defaults : {
             name:"",

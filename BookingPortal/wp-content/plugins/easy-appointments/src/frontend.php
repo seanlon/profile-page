@@ -12,7 +12,7 @@ class EAFrontend
 	 * 
 	 */
 	var $generate_next_option = true;
-
+	 
 	/**
 	 * 
 	 */
@@ -211,6 +211,10 @@ class EAFrontend
 			'jquery-style',
 			EA_PLUGIN_URL . 'css/jquery-ui.css'
 		);
+
+		/*localize script*/
+
+		add_action( 'wp_enqueue_scripts', 'custom_localize_script' );
 	}
 	/**
 	 * maintenance form -service maintenanace
@@ -229,6 +233,9 @@ class EAFrontend
 		wp_enqueue_style( 'ea-frontend-style' );
 		wp_enqueue_style( 'ea-admin-awesome-css' );
 
+		wp_register_script( 'ajax-js', get_template_directory_uri() . '/js/ajax.js', array( 'jquery' ), '', true );
+		wp_localize_script( 'ajax-js', 'ajax_params', array( 'ajax_url' => admin_url( 'admin-ajax.php' ) ) );
+		wp_enqueue_script( 'ajax-js' );
 
 		require_once EA_SRC_DIR . 'templates/admin.tpl.php';
 		require_once EA_SRC_DIR . 'templates/inlinedata.tpl.php';
@@ -238,9 +245,13 @@ class EAFrontend
 		?>
 		<div id="tab-content">
 		</div>
+
+
+
 <script type="text/javascript">	
 	var ea_ajaxurl = "<?php echo admin_url('admin-ajax.php'); ?>";
-		    ajaxurl='';
+		    ajaxurl=ea_ajaxurl   ;
+    // var ajax_url = ajax_params.ajax_url;  
    // console.log( this);
 	  //   var services = new EA.ServicesView({
 	  //       el: '#tab-contentx'
