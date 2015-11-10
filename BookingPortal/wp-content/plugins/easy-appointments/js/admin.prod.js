@@ -1,7 +1,7 @@
 (function($) {
 
     var EA = {};
-
+    var ajaxurl ;
     /**
      * Single location
      */

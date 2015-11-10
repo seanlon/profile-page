@@ -280,4 +280,17 @@ class EAAdminPanel
 		require_once EA_SRC_DIR . 'templates/admin.tpl.php';
 		require_once EA_SRC_DIR . 'templates/inlinedata.tpl.php';
 	}
+
+	public function generateFormSettings()
+	{
+		$settings = EALogic::get_options();
+		wp_localize_script( 'ea-settings', 'ea_settings', $settings );
+		
+		$screen = get_current_screen();
+	 
+		require_once EA_SRC_DIR . 'templates/admin.tpl.php';
+		require_once EA_SRC_DIR . 'templates/inlinedata.tpl.php';
+	}
+
+
 }

@@ -1,6 +1,6 @@
 <script type="text/template" id="ea-settings-main">
 <?php 
-	get_current_screen()->render_screen_meta(); 
+	//get_current_screen()->render_screen_meta(); 
 
 	$user_ID = get_current_user_id(); 
 ?>
@@ -356,8 +356,7 @@
     	});%>
 		</select>
     </td>
-	<td colspan="2">
-	
+	<td colspan="2"> 
 		<select data-prop="day_of_week" size="7" multiple>
 	<% var weekdays = [
 	        { id: "Monday", name: "<?php _e('Monday','easy-appointments');?>"},

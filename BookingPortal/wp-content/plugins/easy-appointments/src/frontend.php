@@ -28,6 +28,10 @@ class EAFrontend
 
 		// bootstrap form
 		add_shortcode('ea_bootstrap', array($this, 'ea_bootstrap'));
+
+		//location maintenance
+		add_shortcode('ea_service_form', array($this, 'service_maintenace'));
+
 	}
 
 	/**
@@ -65,7 +69,17 @@ class EAFrontend
 			false,
 			true
 		);
+	// frontend standard script
+		wp_register_script(
+			'ea-settings',
+			EA_PLUGIN_URL . 'js/admin.prod.js',
+			array( 'jquery',  'backbone','jquery-ui-datepicker', 
+				'ea-datepicker-localization',  'jquery-ui-sortable' ),
+			false,
+			true
+		);
 
+		 
 		// bootstrap script
 		wp_register_script(
 			'ea-bootstrap',
@@ -83,7 +97,7 @@ class EAFrontend
 			false,
 			true
 		);
-
+ 
 		wp_register_style(
 			'jquery-style',
 			'http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css'
@@ -115,7 +129,130 @@ class EAFrontend
 			'ea-admin-awesome-css',
 			EA_PLUGIN_URL . 'css/font-awesome.css'
 		);
+		/*from admin panel0*/
+				// admin panel script
+		wp_register_script(
+			'ea-compatibility-mode',
+			EA_PLUGIN_URL . 'js/backbone.sync.fix.js',
+			array( 'backbone' ),
+			false,
+			true
+		);
+
+		// admin panel script
+		wp_register_script(
+			'time-picker',
+			EA_PLUGIN_URL . 'js/libs/jquery-ui-timepicker-addon.js',
+			array( 'jquery', 'jquery-ui-datepicker' ),
+			false,
+			true
+		);
+
+		// admin panel script
+		wp_register_script(
+			'ea-settings',
+			EA_PLUGIN_URL . 'js/admin.prod.js',
+			array( 'jquery', 'ea-datepicker-localization', 'backbone', 'underscore', 'time-picker', 'jquery-ui-sortable'),
+			false,
+			true
+		);
+
+		// appointments panel script
+		wp_register_script(
+			'ea-appointments',
+			EA_PLUGIN_URL . 'js/settings.prod.js',
+			array( 'jquery', 'ea-datepicker-localization', 'backbone', 'underscore', 'jquery-ui-datepicker', 'time-picker' ),
+			false,
+			true
+		);
+
+		// report panel script
+		wp_register_script(
+			'ea-report',
+			EA_PLUGIN_URL . 'js/report.prod.js',
+			array( 'jquery', 'ea-datepicker-localization', 'backbone', 'underscore', 'time-picker'),
+			false,
+			true
+		);
+
+		wp_register_script(
+			'ea-datepicker-localization',
+			'http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/i18n/jquery-ui-i18n.min.js',
+			array( 'jquery' ),
+			false,
+			true
+		);
+
+		// admin style
+		wp_register_style(
+			'ea-admin-css',
+			EA_PLUGIN_URL . 'css/admin.css'
+		);
+
+		// report style
+		wp_register_style(
+			'ea-report-css',
+			EA_PLUGIN_URL . 'css/report.css'
+		);
+
+		// admin style
+		wp_register_style(
+			'ea-admin-awesome-css',
+			EA_PLUGIN_URL . 'css/font-awesome.css'
+		);
+
+		// admin style
+		wp_register_style(
+			'time-picker',
+			EA_PLUGIN_URL . 'css/jquery-ui-timepicker-addon.css'
+		);
+
+		wp_register_style(
+			'jquery-style',
+			EA_PLUGIN_URL . 'css/jquery-ui.css'
+		);
 	}
+	/**
+	 * maintenance form -service maintenanace
+	 */
+	public function service_maintenace($attrs)
+	{
+  		$settings = EALogic::get_options();
+		  wp_localize_script( 'ea-settings', 'ea_settings', $settings ); 
+
+		wp_enqueue_script( 'ea-settings' );
+		wp_enqueue_script( 'underscore' );
+		wp_enqueue_script( 'ea-validator' );
+		wp_enqueue_script( 'ea-front-end' );
+		//wp_enqueue_script( 'ea-datepicker-localization' );
+		wp_enqueue_style( 'jquery-style' );
+		wp_enqueue_style( 'ea-frontend-style' );
+		wp_enqueue_style( 'ea-admin-awesome-css' );
+
+
+		require_once EA_SRC_DIR . 'templates/admin.tpl.php';
+		require_once EA_SRC_DIR . 'templates/inlinedata.tpl.php';
+	  
+
+		ob_start();
+		?>
+		<div id="tab-content">
+		</div>
+<script type="text/javascript">	
+	var ea_ajaxurl = "<?php echo admin_url('admin-ajax.php'); ?>";
+		    ajaxurl='';
+   // console.log( this);
+	  //   var services = new EA.ServicesView({
+	  //       el: '#tab-contentx'
+	  //   });
+   // console.log(services); 
+</script>
+		<?php
+
+		return ob_get_clean();
+	}
+ 
+
 
 	/**
 	 * Standard widget
