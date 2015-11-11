@@ -59,7 +59,7 @@
 	<table class="wp-list-table widefat fixed">
 		<thead>
 			<tr>
-				<th class="manage-column column-title column-5">Id</th>
+				<th class="hidden manage-column column-title column-5">Id</th>
 				<th class="manage-column column-title"><?php _e('Name','easy-appointments');?></th>
 				<th class="manage-column column-title"><?php _e('Address','easy-appointments');?></th>
 				<th class="manage-column column-title"><?php _e('Location','easy-appointments');?></th>
@@ -74,7 +74,7 @@
 </script>
 
 <script type="text/template" id="ea-tpl-locations-row">
-	<td><%= row.id %></td>
+	<td class="hidden"><%= row.id %></td>
 	<td class="post-title page-title column-title">
 		<strong><%= row.name %></strong>
 	</td>
@@ -91,7 +91,7 @@
 </script>
 
 <script type="text/template" id="ea-tpl-locations-row-edit">
-	<td><%= row.id %></td>
+	<td class="hidden"><%= row.id %></td>
 
 	<td><input hidden data-prop="userid" value=" <?php echo 	$user_ID ; ?>">
 	<input type="text" data-prop="name" value="<%= row.name %>"></td>
@@ -119,7 +119,7 @@
 	<table class="wp-list-table widefat fixed">
 		<thead>
 			<tr>
-				<th class="manage-column column-title column-5">Id</th>
+				<th class=" hidden  manage-column column-title column-5">Id</th>
 				<th class="manage-column column-title"><?php _e('Name','easy-appointments');?></th>
 				<th class="manage-column column-title"><?php _e('Duration (min)','easy-appointments');?></th>
 				<th class="manage-column column-title"><?php _e('Price','easy-appointments');?></th>
@@ -134,7 +134,7 @@
 </script>
 
 <script type="text/template" id="ea-tpl-services-row">
-	<td><%= row.id %></td>
+	<td class="hidden"><%= row.id %></td>
 	<td class="post-title page-title column-title">
 		<strong><%= row.name %></strong>
 	</td>
@@ -151,7 +151,7 @@
 </script>
 
 <script type="text/template" id="ea-tpl-services-row-edit">
-	<td><%= row.id %>
+	<td class="hidden"><%= row.id %>
 <input hidden data-prop="userid" value=" <?php echo 	$user_ID ; ?>">
 	</td>
 	<td><input type="text" data-prop="name" value="<%= row.name %>"></td>
@@ -180,7 +180,7 @@
 	<table class="wp-list-table widefat fixed">
 		<thead>
 			<tr>
-				<th class="manage-column column-title column-5">Id</th>
+				<th class="hidden manage-column column-title column-5">Id</th>
 				<th class="manage-column column-title"><?php _e('Name','easy-appointments');?></th>
 				<th class="manage-column column-title"><?php _e('Description','easy-appointments');?></th>
 				<th class="manage-column column-title"><?php _e('Email','easy-appointments');?></th>
@@ -196,7 +196,7 @@
 </script>
 
 <script type="text/template" id="ea-tpl-worker-row">
-	<td><%= row.id %></td>
+	<td class="hidden"><%= row.id %></td>
 	<td class="post-title page-title column-title">
 		<strong><%= row.name %></strong>
 	</td>
@@ -216,7 +216,7 @@
 </script>
 
 <script type="text/template" id="ea-tpl-worker-row-edit">
-	<td><%= row.id %>
+	<td class="hidden"><%= row.id %>
 		<input hidden data-prop="userid" value=" <?php echo 	$user_ID ; ?>">
 	</td>
 	<td><input type="text" data-prop="name" value="<%= row.name %>"></td>
@@ -246,7 +246,8 @@
 	<table class="wp-list-table widefat fixed">
 		<thead>
 			<tr>
-				<th colspan="4" class="manage-column column-title">Id / <?php _e('Location','easy-appointments');?> / <?php _e('Service','easy-appointments');?> / <?php _e('Worker','easy-appointments');?></th>
+				<th colspan="4" class="  manage-column column-title">
+				Id / <?php _e('Location','easy-appointments');?> / <?php _e('Service','easy-appointments');?> / <?php _e('Worker','easy-appointments');?></th>
 				<th colspan="2" class="manage-column column-title"><?php _e('Days of week','easy-appointments');?></th>
 				<th colspan="2" class="manage-column column-title">
 					<?php _e('Time','easy-appointments');?>
@@ -267,7 +268,7 @@
 
 <script type="text/template" id="ea-tpl-connection-row">
 	<td colspan="4" class="table-row-td">
-		#<%= row.id %>
+		<span class="hidden">#<%= row.id %> </span>
 		<br>
 		<p> 
 			<strong>
@@ -320,7 +321,10 @@
 
 <script type="text/template" id="ea-tpl-connection-row-edit">
 	<td colspan="4">
-		#<%= row.id %><br><input hidden data-prop="userid" value=" <?php echo 	$user_ID ; ?>">
+		<span class="hidden">#<%= row.id %><br>
+			<input hidden data-prop="userid"
+			 value=" <?php echo 	$user_ID ; ?>">
+		 </span>
 		<select data-prop="location">
 			<option value=""> -- <?php _e('Location','easy-appointments');?> -- </option>
 	<% _.each(locations,function(item,key,list){

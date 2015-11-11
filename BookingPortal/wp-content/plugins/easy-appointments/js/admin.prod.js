@@ -1600,6 +1600,21 @@
 	            hash = '#locations/';
 	        }
 
+             var url= window.location.href; 
+            var hashPos=url.indexOf('hash-');
+            var lenurl=url.length;
+            if(hashPos!=-1 && !window.location.hash ){   
+                  var hashUrl= url.substring(hashPos,lenurl);
+                  hashUrl=hashUrl.replace('hash-',"#");
+                  url=url+ hashUrl ;
+                  // location.hash= hashUrl;
+                  window.location.href  =url;      
+                  location.reload() ; 
+            }  
+             
+
+
+
 	        var tab = mainView.$el.find('[href="' + hash + '"]')[0];
 
 	        mainView.select({ target : tab});

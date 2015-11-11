@@ -23,6 +23,19 @@ class EAAjax
 	 **/
 	var $type;
 
+	/**
+	 * filter of data request
+	 *
+	 * @var filter
+	 **/
+	var $filter=array();
+
+	 
+ 
+
+
+
+
 	function __construct()
 	{
 		// Frontend ajax calls
@@ -93,6 +106,9 @@ class EAAjax
 			add_action( 'wp_ajax_ea_fields', array($this, 'ajax_fields'));
 			add_action( 'wp_ajax_ea_field', array($this, 'ajax_field'));
 
+		}
+		else{
+				$filter=   array('userid' => get_current_user_id() ) ;
 		}
 
 		$this->models = new EADBModels;
@@ -378,7 +394,7 @@ class EAAjax
 		$response = array();
 
 		if($this->type === 'GET') {
-			$response = $this->models->get_all_rows('ea_services');
+			  $response = $this->models->get_all_rows('ea_services', $filter  );
 		}
 
 		die(json_encode($response));

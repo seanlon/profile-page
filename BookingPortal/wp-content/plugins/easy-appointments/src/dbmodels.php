@@ -12,6 +12,9 @@ class EADBModels
 	 **/
 	var $db;
 
+	var  $userId  ; 
+	 
+	 
 	function __construct()
 	{
 		global $wpdb;
@@ -27,8 +30,7 @@ class EADBModels
 
 		$ignore = array( 'action' );
 
-		$where = '';
-
+		$where = ''; 
 		$params = array();
 
 		foreach ($data as $key => $value) {
@@ -74,14 +76,14 @@ class EADBModels
 
 		$order_part = implode(',', $order_part);
 
-		$query = $this->db->prepare("SELECT * 
+		$query = $this->db->prepare("SELECT id 
 			FROM {$this->db->prefix}{$table_name} 
 			WHERE 1$where 
 			ORDER BY {$order_part}",
 			$params
 		);
 
-		return $this->db->get_results($query);
+		 return $this->db->get_results($query);
 	}
 
 	public function get_all_appointments($data)
@@ -168,12 +170,22 @@ class EADBModels
 		}
 
 		$order = implode(',', $tmp);
-
-		$query = "SELECT * 
+		
+		if( is_admin()){
+		  $query = "SELECT * 
 			FROM {$wpdb->prefix}{$table_name} 
 			ORDER BY {$order}";
+		}
+		else{
+			$userid=get_current_user_id();
+ 			$query = "SELECT * 
+			FROM {$wpdb->prefix}{$table_name} 
+			WHERE  userid={$userid} 
+			ORDER BY {$order}";
+		}
+		
 
-		return json_encode($wpdb->get_results($query));
+		  return json_encode($wpdb->get_results($query));
 	}
 
 	/**
@@ -181,14 +193,21 @@ class EADBModels
 	 */
 	public function get_row( $table_name, $id, $output_type = OBJECT )
 	{
-
-		$query = $this->db->prepare("SELECT * 
-			FROM {$this->db->prefix}{$table_name}
-			WHERE id=%d",
-			$id
-		);
-
-		return $this->db->get_row($query, $output_type);
+ 
+		if( is_admin()){
+		 		$query = $this->db->prepare("SELECT * 
+					FROM {$this->db->prefix}{$table_name}
+					WHERE id=%d  ", $id 
+				); 
+		}
+		else{
+				$query = $this->db->prepare("SELECT * 
+					FROM {$this->db->prefix}{$table_name}
+					WHERE id=%d and userid=%d",
+					$id,get_current_user_id()
+				); 
+		}
+		 return $this->db->get_row($query, $output_type);
 	}
 
 	/**

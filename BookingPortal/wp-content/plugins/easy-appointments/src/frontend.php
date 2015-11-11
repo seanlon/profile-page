@@ -30,7 +30,7 @@ class EAFrontend
 		add_shortcode('ea_bootstrap', array($this, 'ea_bootstrap'));
 
 		//location maintenance
-		add_shortcode('ea_service_form', array($this, 'service_maintenace'));
+		add_shortcode('ea_table_form', array($this, 'table_maintenace'));
 
 	}
 
@@ -216,13 +216,31 @@ class EAFrontend
 
 		add_action( 'wp_enqueue_scripts', 'custom_localize_script' );
 	}
-	/**
-	 * maintenance form -service maintenanace
-	 */
-	public function service_maintenace($attrs)
+
+	public function get_user_role( )
 	{
+		if ( is_user_logged_in() ) {
+			 if( current_user_can( 'edit_posts' ) ) { 
+			 		return true; 
+			 } 
+			 
+		}
+		return false;
+
+	}
+	/**
+	 * maintenance form -table maintenanace
+	 */
+	public function table_maintenace($attrs)
+	{
+
+		if(!$this->get_user_role( )  ){
+				 
+				die('401: Permission Denied.'); ;
+		}
+
   		$settings = EALogic::get_options();
-		  wp_localize_script( 'ea-settings', 'ea_settings', $settings ); 
+	  wp_localize_script( 'ea-settings', 'ea_settings', $settings ); 
 
 		wp_enqueue_script( 'ea-settings' );
 		wp_enqueue_script( 'underscore' );
@@ -233,9 +251,10 @@ class EAFrontend
 		wp_enqueue_style( 'ea-frontend-style' );
 		wp_enqueue_style( 'ea-admin-awesome-css' );
 
-		wp_register_script( 'ajax-js', get_template_directory_uri() . '/js/ajax.js', array( 'jquery' ), '', true );
-		wp_localize_script( 'ajax-js', 'ajax_params', array( 'ajax_url' => admin_url( 'admin-ajax.php' ) ) );
-		wp_enqueue_script( 'ajax-js' );
+		// wp_register_script( 'ajax-js', get_template_directory_uri() . '/js/ajax.js', array( 'jquery' ), '', true );
+		// wp_localize_script( 'ajax-js', 'ajax_params', array( 'ajax_url' => admin_url( 'admin-ajax.php' ) ) );
+		// wp_enqueue_script( 'ajax-js' );
+
 
 		require_once EA_SRC_DIR . 'templates/admin.tpl.php';
 		require_once EA_SRC_DIR . 'templates/inlinedata.tpl.php';
@@ -248,17 +267,11 @@ class EAFrontend
 
 
 
-<script type="text/javascript">	
-	var ea_ajaxurl = "<?php echo admin_url('admin-ajax.php'); ?>";
-		    ajaxurl=ea_ajaxurl   ;
-    // var ajax_url = ajax_params.ajax_url;  
-   // console.log( this);
-	  //   var services = new EA.ServicesView({
-	  //       el: '#tab-contentx'
-	  //   });
-   // console.log(services); 
-</script>
-		<?php
+	<script type="text/javascript">	
+		var ea_ajaxurl = "<?php echo admin_url('admin-ajax.php'); ?>";
+			    ajaxurl=ea_ajaxurl   ; 
+	 </script>
+<?php
 
 		return ob_get_clean();
 	}

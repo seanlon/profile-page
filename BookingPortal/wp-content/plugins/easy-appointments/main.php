@@ -35,7 +35,7 @@ class EasyAppointment
 		{
 			$admin = new EAAdminPanel();
 			require_once EA_SRC_DIR . 'report.php';
-		} else {  
+		} else {    
 			$admin = new EAAdminPanel();
 			require_once EA_SRC_DIR . 'frontend.php';
 			$frontend = new EAFrontend();
