@@ -412,9 +412,9 @@
 
 <script type="text/template" id="ea-tpl-custumize">
 	<div class="wp-filter">
-		<h2><?php _e('Connections', 'easy-appointments');?> :</h2>
-		<table class="form-table form-table-translation">
-			<tbody>
+		<h2 class="hidden"><?php _e('Connections', 'easy-appointments');?> :</h2>
+		<table class="hidden form-table form-table-translation">
+			<tbody >
 				<tr>
 					<th class="row">
 						<label for=""><?php _e('Multiple work', 'easy-appointments');?> :</label>
@@ -422,8 +422,10 @@
 					<td>
 						<input class="field" data-key="multiple.work" name="multiple.work" type="checkbox" <% if (_.findWhere(settings, {ea_key:'multiple.work'}).ea_value == "1") { %>checked<% } %>>
 					</td>
-					<td>
-						<span class="description"> <?php _e('Mark this option if you want to calculate free worker slots only by current service and location. If it\'s not marked system will check if worker is working on any location and service at current time.', 'easy-appointments');?></span>
+					<td class=>
+						<span class="description"> <?php _e('Tick this option to
+						 indicate, free worker slots by current service and single location. 
+						 <br/> If it\'s not checked, system will check if your worker is working on any location and service at current time.', 'easy-appointments');?></span>
 					</td>
 				</tr>
 				<tr>
@@ -434,7 +436,8 @@
 						<input class="field" data-key="compatibility.mode" name="compatibility.mode" type="checkbox" <% if (_.findWhere(settings, {ea_key:'compatibility.mode'}).ea_value == "1") { %>checked<% } %>>
 					</td>
 					<td>
-						<span class="description"> <?php _e('If you can\'t <strong>EDIT</strong> or <strong>DELETE</strong> conecntion or any other settings, you should mark this option. NOTE: <strong>After saving this options you must refresh page!</strong>', 'easy-appointments');?></span>
+						<span class="description"> <?php _e('If you can\'t <strong>EDIT</strong> or <strong>DELETE</strong> any settings, you should activate this option. 
+							<br/>NOTE: <strong>Please refresh the page after that.</strong>', 'easy-appointments');?></span>
 					</td>
 				</tr>
 			</body>
@@ -535,11 +538,11 @@
 			</tbody>
 		</table>
 		<hr class="divider">
-		<h2><?php _e('Date & Time', 'easy-appointments');?> : </h2>
-		<table class="form-table form-table-translation">
+		<h2 class="hidden "><?php _e('Date & Time', 'easy-appointments');?> : </h2>
+		<table class="hidden form-table form-table-translation">
 			<tbody>
 				<tr>
-					<th class="row">
+					<th class="row hidden">
 						<label><?php _e('Time format', 'easy-appointments');?> :</label>
 					</th>
 					<td>
@@ -549,7 +552,7 @@
 						</select>
 					</td>
 				</tr>
-				<tr>
+				<tr class="hidden">
 					<th class="row">
 						<label><?php _e('Calendar localization', 'easy-appointments');?> :</label>
 					</th>
@@ -571,7 +574,8 @@
 			</tbody>
 		</table>
 		<hr class="divider">
-		<h2><?php _e('Custom form fields', 'easy-appointments');?> - <small>Create all fields that you need. Custom order them by drag and drop.</small></h2>
+		<h2><?php _e('Custom form fields', 'easy-appointments');?> - <small>Create 
+		all fields that you need. Custom order them by drag and drop.</small></h2>
 		<table class="form-table">
 			<tbody>
 				<tr>
@@ -600,8 +604,8 @@
 			</tbody>
 		</table>
 		<hr class="divider">
-		<h2>Form</h2>
-		<table class="form-table">
+		<h2 class="hidden ">Form</h2>
+		<table class="hidden form-table">
 			<tbody>
 				<tr>
 					<th class="row">
@@ -618,7 +622,7 @@
 		</table>
 		<table class="form-table">
 			<tbody>
-				<tr>
+				<tr class="hidden">
 					<th class="row">
 						<label for=""><?php _e('I agree field', 'easy-appointments');?> :</label>
 					</th>
@@ -629,8 +633,8 @@
 						<span class="description"> <?php _e('I agree option at the end of form. If this is marked user must confirme "I agree" checkbox.', 'easy-appointments');?></span>
 					</td>
 				</tr>
-				<tr>
-					<th class="row">
+				<tr class="hidden">
+					<th class=" row">
 						<label><?php _e('After cancel scroll to', 'easy-appointments');?> :</label>
 					</th>
 					<td>

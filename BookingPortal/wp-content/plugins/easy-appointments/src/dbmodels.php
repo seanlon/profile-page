@@ -21,6 +21,215 @@ class EADBModels
 		$this->db = $wpdb;
 	}
 
+
+	private function migrateFormFields($userid)
+	{
+		$email   = __('Email', 'easy-appointments');
+		$name    = __('Name', 'easy-appointments');
+		$phone   = __('Phone', 'easy-appointments');
+		$comment = __('Description', 'easy-appointments');
+
+		$data = array();
+
+		// email
+		$data[] = array(
+			'userid'        => $userid,
+			'type'          => EAMetaFields::T_INPUT,
+			'slug'          => str_replace('-', '_', sanitize_title('email')),
+			'label'         => $email,
+			'default_value' => '',
+			'validation'    => 'email',
+			'mixed'         => '',
+			'visible'       => 1,
+			'required'      => 1,
+			'position'      => 1
+			);
+
+		$data[] = array(
+			'userid'        => $userid,
+			'type'          => EAMetaFields::T_INPUT,
+			'slug'          => str_replace('-', '_', sanitize_title('name')),
+			'label'         => $name,
+			'default_value' => '',
+			'validation'    => 'minlength-3',
+			'mixed'         => '',
+			'visible'       => 1,
+			'required'      => 1,
+			'position'      => 2
+		);
+
+		$data[] = array(
+			'userid'        => $userid,
+			'type'          => EAMetaFields::T_INPUT,
+			'slug'          => str_replace('-', '_', sanitize_title('phone')),
+			'label'         => $phone,
+			'default_value' => '',
+			'validation'    => 'minlength-3',
+			'mixed'         => '',
+			'visible'       => 1,
+			'required'      => 1,
+			'position'      => 3
+		);
+
+		$data[] = array(
+			'userid'        => $userid,
+			'type'          => EAMetaFields::T_TEXTAREA,
+			'slug'          => str_replace('-', '_', sanitize_title('description')),
+			'label'         => $comment,
+			'default_value' => '',
+			'validation'    => NULL,
+			'mixed'         => '',
+			'visible'       => 1,
+			'required'      => 0,
+			'position'      => 4
+		);
+
+		return $data;
+	}
+
+	/**
+	 * Insert start data into options
+	 * @return [type] [description]
+	 */
+	public function init_data_options() {
+		if(  $this->is_admin_user_role()){ 
+			 return ;
+		}
+ 
+ 		global $wpdb;
+
+		// options table
+		$table_name = $wpdb->prefix . 'ea_options';
+  
+		    $userid=get_current_user_id();
+
+		// rows data
+		$wp_ea_options = array(
+		  
+			array('userid' =>  $userid,'ea_key' => 'mail.pending','ea_value' => 'pending','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'mail.reservation','ea_value' => 'reservation','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'mail.canceled','ea_value' => 'canceled','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'mail.confirmed','ea_value' => 'confirmed','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'trans.service','ea_value' => 'Service','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'trans.location','ea_value' => 'Location','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'trans.worker','ea_value' => 'Worker','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'trans.done_message','ea_value' => 'Done','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'time_format','ea_value' => '00-24','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'trans.currency','ea_value' => 'RM','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'pending.email','ea_value' => '','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'price.hide','ea_value' => '0','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'datepicker','ea_value' => 'en-US','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'send.user.email','ea_value' => '0','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'custom.css','ea_value' => '','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'show.iagree','ea_value' => '0','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'cancel.scroll','ea_value' => 'calendar','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'multiple.work','ea_value' => '1','type' => 'default'),
+			array('userid' =>  $userid,'ea_key' => 'compatibility.mode','ea_value' => '0','type' => 'default')
+		);
+
+		// insert options
+		foreach ($wp_ea_options as $row) {
+			$wpdb->insert(
+				$table_name,
+				$row
+			);
+		}
+
+		$default_fields = $this->migrateFormFields(  $userid);
+
+		$table_name = $wpdb->prefix . 'ea_meta_fields';
+
+		foreach ($default_fields as $row) {
+			$wpdb->insert(
+				$table_name,
+				$row
+			);
+		}
+	}
+
+ 	public function is_admin_user_role(){
+ 		return  current_user_can( 'activate_plugins' );  
+ 	}
+	 
+
+ 	/**
+	 * 
+	 */
+	public function get_all_rows_filter_userid( $table_name, $data = array(), $order = array('id' => 'DESC'))
+	{
+
+		$ignore = array( 'action' );
+
+		$where = ''; 
+		$params = array();
+
+		foreach ($data as $key => $value) {
+			if(!in_array( $key, $ignore )) {
+
+				$helper = '=';
+
+				// if equal or greater
+				if(strpos($value, '+') === 0) {
+					$helper = '>=';
+					$value = substr($value, 1);
+
+				// if equal or smaller
+				} else if(strpos($value, '-') === 0) {
+					$helper = '<=';
+					$value = substr($value, 1);
+				}
+
+				if(in_array( $key , array('from', 'to') )) {
+					$key = 'date';
+				}
+
+				if(is_numeric($value)) {
+					$where .= " AND {$key}{$helper}%d";
+				} else {
+					$where .= " AND {$key}{$helper}%s";
+				}
+
+				$params[] = $value;
+			}
+		}
+
+		//when admin fetch all
+		if( !$this->is_admin_user_role()){ 
+			$userid=get_current_user_id(); 			
+ 
+			$where = ' userid=%d';
+			$params[] = $userid;
+		} else{
+
+			if($where === '') {
+				$where = '1 AND 1=%d';
+				$params[] = 1;
+			}
+
+		}
+
+		$order_part = array();
+
+		foreach ($order as $key => $value) {
+			$order_part[] = $key . ' ' . $value;
+		}
+
+		$order_part = implode(',', $order_part);
+ 
+		$query = $this->db->prepare("SELECT * 
+			FROM {$this->db->prefix}{$table_name} 
+			WHERE $where 
+			ORDER BY {$order_part}",
+			$params
+		);    
+			  
+		 
+		 // return  ($query);
+		 
+		   return $this->db->get_results($query);
+
+	}
+
 	/**
 	 * 
 	 */

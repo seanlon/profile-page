@@ -291,7 +291,15 @@ class EAAjax
 		$response = array();
 
 		if($this->type === 'GET') {
-			$response = $this->models->get_all_rows('ea_options');
+ 
+
+			$response = $this->models->get_all_rows_filter_userid('ea_options');
+		
+			//no record- pump new data & fetch again
+			if (count($response)<= 0){
+		  	    $this->models-> init_data_options(); 
+			    $response = $this->models->get_all_rows_filter_userid('ea_options');	
+			}
 		} else {
 			if(array_key_exists('options', $data)) {
 				foreach ($data['options'] as $option) {
@@ -462,7 +470,7 @@ class EAAjax
 		$response = array();
 
 		if($this->type === 'GET') {
-			$response = $this->models->get_all_rows('ea_connections');
+			$response = $this->models->get_all_rows_filter_userid('ea_connections');
 		}
 
 		header( "Content-Type: application/json" );
@@ -500,8 +508,8 @@ class EAAjax
 		$response = array();
 
 		if($this->type === 'GET') {
-			$response = $this->models->get_all_rows('ea_meta_fields', $data);
-		}
+			$response = $this->models->get_all_rows_filter_userid('ea_meta_fields', $data);
+		}	
 
 		die(json_encode($response));
 	}

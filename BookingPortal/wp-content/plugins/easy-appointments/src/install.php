@@ -496,7 +496,7 @@ EOT;
 
 	private function migrateFormFields()
 	{
-		$email   = __('EMail', 'easy-appointments');
+		$email   = __('Email', 'easy-appointments');
 		$name    = __('Name', 'easy-appointments');
 		$phone   = __('Phone', 'easy-appointments');
 		$comment = __('Description', 'easy-appointments');
