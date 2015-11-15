@@ -216,7 +216,7 @@ class EAAjax
 		$response = $this->models->replace( $table, $appointment, true );
 
 
-		$meta = $this->models->get_all_rows('ea_meta_fields');
+		$meta = $this->models->get_all_rows_filter_userid('ea_meta_fields');
 
 		foreach ($meta as $f) {
 			$fields = array();
@@ -300,7 +300,7 @@ class EAAjax
 		  	    $this->models-> init_data_options(); 
 			    $response = $this->models->get_all_rows_filter_userid('ea_options');	
 			}
-		} else {
+		} else {//post put update fields
 			if(array_key_exists('options', $data)) {
 				foreach ($data['options'] as $option) {
 					// update single option
@@ -627,7 +627,7 @@ class EAAjax
 			}
 		}
 
-		$meta_fields = $this->models->get_all_rows('ea_meta_fields');
+		$meta_fields = $this->models->get_all_rows_filter_userid('ea_meta_fields');
 		$meta_data = array();
 
 		foreach ($meta_fields as $value) {

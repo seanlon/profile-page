@@ -1325,9 +1325,10 @@
             var $row = $btn.closest('th');
             var name = $row.find('input').val();
             var type = $row.find('select').val();
+            var userid = $('[data-prop=userid]').val();
 
             var field = new EA.Field({
-                label:name,
+                label:name,userid:userid,
                 type:type,
                 position: obj.fields.length + 1
             });

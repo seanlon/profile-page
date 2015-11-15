@@ -579,6 +579,7 @@
 		<table class="form-table">
 			<tbody>
 				<tr>
+				<input hidden data-prop="userid" id="" value="<?php echo 	$user_ID ; ?>">
 					<th colspan="2">
 						<span>Name :</span>
 						<input type="text">
